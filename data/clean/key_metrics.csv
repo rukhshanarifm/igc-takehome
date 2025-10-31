@@ -1,0 +1,1574 @@
+year,metric,category,value,units,source,yoy_change_pct,moving_avg_3yr
+2000,Access to electricity (% of population),Missing,72.8,Percentage,World Bank,,72.8
+2001,Access to electricity (% of population),Missing,73.9,Percentage,World Bank,1.5109890109890227,73.35
+2002,Access to electricity (% of population),Missing,74.9,Percentage,World Bank,1.3531799729364005,73.86666666666667
+2003,Access to electricity (% of population),Missing,76.0,Percentage,World Bank,1.4686248331108067,74.93333333333334
+2004,Access to electricity (% of population),Missing,77.0,Percentage,World Bank,1.3157894736842104,75.96666666666668
+2005,Access to electricity (% of population),Missing,78.1,Percentage,World Bank,1.4285714285714213,77.03333333333332
+2006,Access to electricity (% of population),Missing,79.1,Percentage,World Bank,1.2804097311139566,78.06666666666666
+2007,Access to electricity (% of population),Missing,80.2,Percentage,World Bank,1.3906447534766229,79.13333333333333
+2008,Access to electricity (% of population),Missing,81.4,Percentage,World Bank,1.496259351620951,80.23333333333333
+2009,Access to electricity (% of population),Missing,82.5,Percentage,World Bank,1.3513513513513442,81.36666666666667
+2010,Access to electricity (% of population),Missing,87.1,Percentage,World Bank,5.575757575757569,83.66666666666667
+2011,Access to electricity (% of population),Missing,87.8,Percentage,World Bank,0.8036739380022995,85.8
+2012,Access to electricity (% of population),Missing,88.6,Percentage,World Bank,0.9111617312072862,87.83333333333333
+2013,Access to electricity (% of population),Missing,89.3,Percentage,World Bank,0.7900677200902968,88.56666666666666
+2014,Access to electricity (% of population),Missing,90.1,Percentage,World Bank,0.8958566629339274,89.33333333333333
+2015,Access to electricity (% of population),Missing,91.0,Percentage,World Bank,0.9988901220865768,90.13333333333333
+2016,Access to electricity (% of population),Missing,91.8,Percentage,World Bank,0.879120879120876,90.96666666666665
+2017,Access to electricity (% of population),Missing,92.7,Percentage,World Bank,0.9803921568627514,91.83333333333333
+2018,Access to electricity (% of population),Missing,93.4,Percentage,World Bank,0.7551240560949329,92.63333333333333
+2019,Access to electricity (% of population),Missing,93.9,Percentage,World Bank,0.5353319057815845,93.33333333333333
+2020,Access to electricity (% of population),Missing,94.5,Percentage,World Bank,0.6389776357827415,93.93333333333334
+2021,Access to electricity (% of population),Missing,94.9,Percentage,World Bank,0.4232804232804293,94.43333333333334
+2022,Access to electricity (% of population),Missing,95.0,Percentage,World Bank,0.10537407797681171,94.8
+2023,Access to electricity (% of population),Missing,95.6,Percentage,World Bank,0.631578947368415,95.16666666666667
+2024,Access to electricity (% of population),Missing,,Percentage,World Bank,,95.3
+2000,"Access to electricity, rural (% of rural population)",Missing,62.6,Percentage,World Bank,,62.6
+2001,"Access to electricity, rural (% of rural population)",Missing,63.9,Percentage,World Bank,2.076677316293925,63.25
+2002,"Access to electricity, rural (% of rural population)",Missing,65.3,Percentage,World Bank,2.190923317683879,63.93333333333334
+2003,"Access to electricity, rural (% of rural population)",Missing,66.7,Percentage,World Bank,2.143950995405828,65.3
+2004,"Access to electricity, rural (% of rural population)",Missing,68.0,Percentage,World Bank,1.9490254872563677,66.66666666666667
+2005,"Access to electricity, rural (% of rural population)",Missing,69.4,Percentage,World Bank,2.058823529411773,68.03333333333333
+2006,"Access to electricity, rural (% of rural population)",Missing,70.8,Percentage,World Bank,2.017291066282408,69.39999999999999
+2007,"Access to electricity, rural (% of rural population)",Missing,72.2,Percentage,World Bank,1.977401129943511,70.8
+2008,"Access to electricity, rural (% of rural population)",Missing,73.7,Percentage,World Bank,2.0775623268698062,72.23333333333333
+2009,"Access to electricity, rural (% of rural population)",Missing,75.2,Percentage,World Bank,2.0352781546811394,73.7
+2010,"Access to electricity, rural (% of rural population)",Missing,82.1,Percentage,World Bank,9.175531914893606,77.0
+2011,"Access to electricity, rural (% of rural population)",Missing,82.9,Percentage,World Bank,0.974421437271634,80.06666666666668
+2012,"Access to electricity, rural (% of rural population)",Missing,83.8,Percentage,World Bank,1.0856453558504118,82.93333333333334
+2013,"Access to electricity, rural (% of rural population)",Missing,84.8,Percentage,World Bank,1.1933174224343674,83.83333333333333
+2014,"Access to electricity, rural (% of rural population)",Missing,85.8,Percentage,World Bank,1.179245283018868,84.8
+2015,"Access to electricity, rural (% of rural population)",Missing,86.9,Percentage,World Bank,1.2820512820512922,85.83333333333333
+2016,"Access to electricity, rural (% of rural population)",Missing,88.0,Percentage,World Bank,1.26582278481012,86.89999999999999
+2017,"Access to electricity, rural (% of rural population)",Missing,89.1,Percentage,World Bank,1.2499999999999936,88.0
+2018,"Access to electricity, rural (% of rural population)",Missing,90.1,Percentage,World Bank,1.122334455667789,89.06666666666666
+2019,"Access to electricity, rural (% of rural population)",Missing,90.7,Percentage,World Bank,0.6659267480577231,89.96666666666665
+2020,"Access to electricity, rural (% of rural population)",Missing,91.5,Percentage,World Bank,0.8820286659316396,90.76666666666665
+2021,"Access to electricity, rural (% of rural population)",Missing,91.9,Percentage,World Bank,0.43715846994536145,91.36666666666667
+2022,"Access to electricity, rural (% of rural population)",Missing,93.0,Percentage,World Bank,1.196953210010875,92.13333333333333
+2023,"Access to electricity, rural (% of rural population)",Missing,92.8,Percentage,World Bank,-0.21505376344086324,92.56666666666666
+2024,"Access to electricity, rural (% of rural population)",Missing,,Percentage,World Bank,,92.89999999999999
+2000,"Access to electricity, urban (% of urban population)",Missing,93.6,Percentage,World Bank,,93.6
+2001,"Access to electricity, urban (% of urban population)",Missing,93.9,Percentage,World Bank,0.3205128205128327,93.75
+2002,"Access to electricity, urban (% of urban population)",Missing,94.1,Percentage,World Bank,0.21299254526090375,93.86666666666667
+2003,"Access to electricity, urban (% of urban population)",Missing,94.3,Percentage,World Bank,0.21253985122210717,94.10000000000001
+2004,"Access to electricity, urban (% of urban population)",Missing,94.6,Percentage,World Bank,0.3181336161187669,94.33333333333333
+2005,"Access to electricity, urban (% of urban population)",Missing,94.9,Percentage,World Bank,0.3171247357293989,94.60000000000001
+2006,"Access to electricity, urban (% of urban population)",Missing,95.2,Percentage,World Bank,0.31612223393045014,94.89999999999999
+2007,"Access to electricity, urban (% of urban population)",Missing,95.5,Percentage,World Bank,0.31512605042016506,95.2
+2008,"Access to electricity, urban (% of urban population)",Missing,95.8,Percentage,World Bank,0.31413612565444726,95.5
+2009,"Access to electricity, urban (% of urban population)",Missing,96.2,Percentage,World Bank,0.41753653444677,95.83333333333333
+2010,"Access to electricity, urban (% of urban population)",Missing,96.5,Percentage,World Bank,0.31185031185030887,96.16666666666667
+2011,"Access to electricity, urban (% of urban population)",Missing,96.9,Percentage,World Bank,0.41450777202073125,96.53333333333335
+2012,"Access to electricity, urban (% of urban population)",Missing,97.3,Percentage,World Bank,0.4127966976264102,96.89999999999999
+2013,"Access to electricity, urban (% of urban population)",Missing,97.6,Percentage,World Bank,0.3083247687564205,97.26666666666667
+2014,"Access to electricity, urban (% of urban population)",Missing,97.9,Percentage,World Bank,0.30737704918033953,97.60000000000001
+2015,"Access to electricity, urban (% of urban population)",Missing,98.2,Percentage,World Bank,0.3064351378958091,97.89999999999999
+2016,"Access to electricity, urban (% of urban population)",Missing,98.5,Percentage,World Bank,0.3054989816700582,98.2
+2017,"Access to electricity, urban (% of urban population)",Missing,98.8,Percentage,World Bank,0.30456852791877886,98.5
+2018,"Access to electricity, urban (% of urban population)",Missing,99.1,Percentage,World Bank,0.3036437246963534,98.8
+2019,"Access to electricity, urban (% of urban population)",Missing,99.3,Percentage,World Bank,0.20181634712411992,99.06666666666666
+2020,"Access to electricity, urban (% of urban population)",Missing,99.6,Percentage,World Bank,0.3021148036253748,99.33333333333333
+2021,"Access to electricity, urban (% of urban population)",Missing,99.9,Percentage,World Bank,0.30120481927711984,99.60000000000001
+2022,"Access to electricity, urban (% of urban population)",Missing,100.0,Percentage,World Bank,0.1001001001000944,99.83333333333333
+2023,"Access to electricity, urban (% of urban population)",Missing,100.0,Percentage,World Bank,0.0,99.96666666666665
+2024,"Access to electricity, urban (% of urban population)",Missing,,Percentage,World Bank,,100.0
+2007,Electricity Generation (GWh),Biogas,9.417,GWh,IRENA,,9.417
+2008,Electricity Generation (GWh),Biogas,18.615,GWh,IRENA,97.67441860465115,14.015999999999998
+2009,Electricity Generation (GWh),Biogas,,GWh,IRENA,,14.015999999999998
+2009,Electricity Generation (GWh),Biogas,18.615,GWh,IRENA,,18.615
+2010,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2010,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2010,Electricity Generation (GWh),Biogas,18.615,GWh,IRENA,,18.615
+2011,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2011,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2011,Electricity Generation (GWh),Biogas,18.615,GWh,IRENA,,18.615
+2012,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2012,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2012,Electricity Generation (GWh),Biogas,18.615,GWh,IRENA,,18.615
+2013,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2013,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2013,Electricity Generation (GWh),Biogas,18.615,GWh,IRENA,,18.615
+2014,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2014,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2014,Electricity Generation (GWh),Biogas,18.615,GWh,IRENA,,18.615
+2015,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2015,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2015,Electricity Generation (GWh),Biogas,18.615,GWh,IRENA,,18.615
+2016,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2016,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.615
+2016,Electricity Generation (GWh),Biogas,18.944,GWh,IRENA,,18.944
+2017,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2017,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2017,Electricity Generation (GWh),Biogas,18.944,GWh,IRENA,,18.944
+2018,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2018,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2018,Electricity Generation (GWh),Biogas,18.944,GWh,IRENA,,18.944
+2019,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2019,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2019,Electricity Generation (GWh),Biogas,18.944,GWh,IRENA,,18.944
+2020,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2020,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2020,Electricity Generation (GWh),Biogas,18.944,GWh,IRENA,,18.944
+2021,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2021,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2021,Electricity Generation (GWh),Biogas,18.944,GWh,IRENA,,18.944
+2022,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2022,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2022,Electricity Generation (GWh),Biogas,18.944,GWh,IRENA,,18.944
+2023,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2023,Electricity Generation (GWh),Biogas,,GWh,IRENA,,18.944
+2014,Electricity Generation (GWh),Coal and peat,,GWh,IRENA,,
+2016,Electricity Generation (GWh),Coal and peat,,GWh,IRENA,,
+2020,Electricity Generation (GWh),Coal and peat,,GWh,IRENA,,
+2022,Electricity Generation (GWh),Coal and peat,,GWh,IRENA,,
+2023,Electricity Generation (GWh),Coal and peat,,GWh,IRENA,,
+2000,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,
+2000,Electricity Generation (GWh),Fossil fuels n.e.s.,47752.0,GWh,IRENA,,47752.0
+2001,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,47752.0
+2001,Electricity Generation (GWh),Fossil fuels n.e.s.,49996.0,GWh,IRENA,,48874.0
+2002,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,49996.0
+2002,Electricity Generation (GWh),Fossil fuels n.e.s.,50812.5,GWh,IRENA,,50404.25
+2003,Electricity Generation (GWh),Fossil fuels n.e.s.,51254.0,GWh,IRENA,0.8688806888068881,51033.25
+2004,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,51033.25
+2004,Electricity Generation (GWh),Fossil fuels n.e.s.,53923.0,GWh,IRENA,,52588.5
+2005,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,53923.0
+2005,Electricity Generation (GWh),Fossil fuels n.e.s.,57972.5,GWh,IRENA,,55947.75
+2006,Electricity Generation (GWh),Fossil fuels n.e.s.,61598.5,GWh,IRENA,6.254689723575833,59785.5
+2007,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,59785.5
+2007,Electricity Generation (GWh),Fossil fuels n.e.s.,64674.5,GWh,IRENA,,63136.5
+2008,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,64674.5
+2008,Electricity Generation (GWh),Fossil fuels n.e.s.,65319.0,GWh,IRENA,,64996.75
+2009,Electricity Generation (GWh),Fossil fuels n.e.s.,66694.0,GWh,IRENA,2.1050536597314715,66006.5
+2010,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,66006.5
+2010,Electricity Generation (GWh),Fossil fuels n.e.s.,66783.5,GWh,IRENA,,66738.75
+2011,Electricity Generation (GWh),Fossil fuels n.e.s.,65419.5,GWh,IRENA,-2.0424206577972104,66101.5
+2012,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,66101.5
+2012,Electricity Generation (GWh),Fossil fuels n.e.s.,64265.0,GWh,IRENA,,64842.25
+2013,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,64265.0
+2013,Electricity Generation (GWh),Fossil fuels n.e.s.,64874.7,GWh,IRENA,,64569.85
+2014,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,64874.7
+2014,Electricity Generation (GWh),Fossil fuels n.e.s.,68359.7,GWh,IRENA,,66617.2
+2015,Electricity Generation (GWh),Fossil fuels n.e.s.,71851.3,GWh,IRENA,5.107687716593265,70105.5
+2016,Electricity Generation (GWh),Fossil fuels n.e.s.,76563.1,GWh,IRENA,6.557710159732674,72258.03333333334
+2017,Electricity Generation (GWh),Fossil fuels n.e.s.,85733.3,GWh,IRENA,11.97731021863012,78049.23333333334
+2018,Electricity Generation (GWh),Fossil fuels n.e.s.,90954.5,GWh,IRENA,6.090049024124811,84416.96666666667
+2019,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,88343.90000000001
+2019,Electricity Generation (GWh),Fossil fuels n.e.s.,85730.0,GWh,IRENA,,88342.25
+2020,Electricity Generation (GWh),Fossil fuels n.e.s.,85873.0,GWh,IRENA,0.1668027528286481,85801.5
+2021,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,85801.5
+2021,Electricity Generation (GWh),Fossil fuels n.e.s.,91696.0,GWh,IRENA,,88784.5
+2022,Electricity Generation (GWh),Fossil fuels n.e.s.,82863.5,GWh,IRENA,-9.632372186354912,87279.75
+2023,Electricity Generation (GWh),Fossil fuels n.e.s.,,GWh,IRENA,,87279.75
+2000,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2001,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2002,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2003,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2004,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2005,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2006,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2007,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2008,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2009,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2010,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2011,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2012,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2013,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2014,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2015,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2016,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2017,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2018,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2019,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2020,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2021,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2022,Electricity Generation (GWh),Geothermal energy,,GWh,IRENA,,
+2000,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2001,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2002,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2003,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2004,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2005,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2006,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2007,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2008,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2009,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2010,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2011,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2012,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2013,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2014,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2015,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2016,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2017,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2018,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2019,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2020,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2021,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2022,Electricity Generation (GWh),Marine energy,,GWh,IRENA,,
+2001,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2003,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2004,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2005,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2006,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2007,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2008,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2009,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2010,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2011,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2012,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2013,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2014,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2015,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2016,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2017,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2019,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2020,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2021,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2022,Electricity Generation (GWh),Multiple renewables*,,GWh,IRENA,,
+2011,Electricity Generation (GWh),Natural gas,,GWh,IRENA,,
+2014,Electricity Generation (GWh),Natural gas,,GWh,IRENA,,
+2015,Electricity Generation (GWh),Natural gas,,GWh,IRENA,,
+2000,Electricity Generation (GWh),Nuclear,1200.0,GWh,IRENA,,1200.0
+2001,Electricity Generation (GWh),Nuclear,1900.0,GWh,IRENA,58.333333333333336,1550.0
+2002,Electricity Generation (GWh),Nuclear,1800.0,GWh,IRENA,-5.263157894736842,1633.3333333333333
+2003,Electricity Generation (GWh),Nuclear,1703.0,GWh,IRENA,-5.388888888888889,1801.0
+2004,Electricity Generation (GWh),Nuclear,,GWh,IRENA,,1751.5
+2004,Electricity Generation (GWh),Nuclear,2077.0,GWh,IRENA,,1890.0
+2005,Electricity Generation (GWh),Nuclear,2417.5,GWh,IRENA,16.39383726528647,2247.25
+2006,Electricity Generation (GWh),Nuclear,,GWh,IRENA,,2247.25
+2006,Electricity Generation (GWh),Nuclear,2196.0,GWh,IRENA,,2306.75
+2007,Electricity Generation (GWh),Nuclear,2468.5,GWh,IRENA,12.408925318761383,2332.25
+2008,Electricity Generation (GWh),Nuclear,,GWh,IRENA,,2332.25
+2008,Electricity Generation (GWh),Nuclear,2159.0,GWh,IRENA,,2313.75
+2009,Electricity Generation (GWh),Nuclear,,GWh,IRENA,,2159.0
+2009,Electricity Generation (GWh),Nuclear,2077.0,GWh,IRENA,,2118.0
+2010,Electricity Generation (GWh),Nuclear,,GWh,IRENA,,2077.0
+2010,Electricity Generation (GWh),Nuclear,3085.5,GWh,IRENA,,2581.25
+2011,Electricity Generation (GWh),Nuclear,,GWh,IRENA,,3085.5
+2011,Electricity Generation (GWh),Nuclear,4187.5,GWh,IRENA,,3636.5
+2012,Electricity Generation (GWh),Nuclear,,GWh,IRENA,,4187.5
+2012,Electricity Generation (GWh),Nuclear,4527.0,GWh,IRENA,,4357.25
+2013,Electricity Generation (GWh),Nuclear,4438.5,GWh,IRENA,-1.954937044400265,4482.75
+2014,Electricity Generation (GWh),Nuclear,,GWh,IRENA,,4482.75
+2014,Electricity Generation (GWh),Nuclear,5040.5,GWh,IRENA,,4739.5
+2015,Electricity Generation (GWh),Nuclear,4816.5,GWh,IRENA,-4.444003571074298,4928.5
+2016,Electricity Generation (GWh),Nuclear,5258.5,GWh,IRENA,9.176788124156547,5038.5
+2017,Electricity Generation (GWh),Nuclear,7700.5,GWh,IRENA,46.439098602263,5925.166666666667
+2018,Electricity Generation (GWh),Nuclear,9149.5,GWh,IRENA,18.816959937666386,7369.5
+2019,Electricity Generation (GWh),Nuclear,9548.0,GWh,IRENA,4.355429258429423,8799.333333333334
+2020,Electricity Generation (GWh),Nuclear,10541.5,GWh,IRENA,10.405320485965646,9746.333333333334
+2021,Electricity Generation (GWh),Nuclear,14752.5,GWh,IRENA,39.94687663046056,11614.0
+2022,Electricity Generation (GWh),Nuclear,21233.5,GWh,IRENA,43.93153702762243,15509.166666666666
+2023,Electricity Generation (GWh),Nuclear,,GWh,IRENA,,17993.0
+2000,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,
+2001,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,
+2002,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,
+2003,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,
+2004,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,
+2005,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,
+2006,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,
+2007,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,
+2008,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,
+2008,Electricity Generation (GWh),Onshore wind energy,6.0,GWh,IRENA,,6.0
+2009,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,6.0
+2009,Electricity Generation (GWh),Onshore wind energy,6.0,GWh,IRENA,,6.0
+2010,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,6.0
+2010,Electricity Generation (GWh),Onshore wind energy,6.0,GWh,IRENA,,6.0
+2011,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,6.0
+2011,Electricity Generation (GWh),Onshore wind energy,6.0,GWh,IRENA,,6.0
+2012,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,6.0
+2012,Electricity Generation (GWh),Onshore wind energy,0.272,GWh,IRENA,,3.136
+2012,Electricity Generation (GWh),Onshore wind energy,6.0,GWh,IRENA,2105.882352941176,3.136
+2013,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,3.136
+2013,Electricity Generation (GWh),Onshore wind energy,0.272,GWh,IRENA,,3.136
+2013,Electricity Generation (GWh),Onshore wind energy,134.5,GWh,IRENA,49348.529411764706,67.386
+2014,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,67.386
+2014,Electricity Generation (GWh),Onshore wind energy,0.272,GWh,IRENA,,67.386
+2014,Electricity Generation (GWh),Onshore wind energy,363.0,GWh,IRENA,133355.88235294117,181.636
+2015,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,181.636
+2015,Electricity Generation (GWh),Onshore wind energy,0.272,GWh,IRENA,,181.636
+2015,Electricity Generation (GWh),Onshore wind energy,621.5,GWh,IRENA,228392.64705882352,310.88599999999997
+2016,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,310.88599999999997
+2016,Electricity Generation (GWh),Onshore wind energy,0.272,GWh,IRENA,,310.88599999999997
+2016,Electricity Generation (GWh),Onshore wind energy,1060.0,GWh,IRENA,389605.88235294115,530.136
+2017,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,530.136
+2017,Electricity Generation (GWh),Onshore wind energy,0.272,GWh,IRENA,,530.136
+2017,Electricity Generation (GWh),Onshore wind energy,1728.5,GWh,IRENA,635377.9411764705,864.386
+2018,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,864.386
+2018,Electricity Generation (GWh),Onshore wind energy,0.272,GWh,IRENA,,864.386
+2018,Electricity Generation (GWh),Onshore wind energy,2642.0,GWh,IRENA,971223.5294117647,1321.136
+2019,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,1321.136
+2019,Electricity Generation (GWh),Onshore wind energy,0.272,GWh,IRENA,,1321.136
+2019,Electricity Generation (GWh),Onshore wind energy,2812.0,GWh,IRENA,1033723.5294117647,1406.136
+2020,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,1406.136
+2020,Electricity Generation (GWh),Onshore wind energy,0.272,GWh,IRENA,,1406.136
+2020,Electricity Generation (GWh),Onshore wind energy,2503.5,GWh,IRENA,920304.4117647058,1251.886
+2021,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,1251.886
+2021,Electricity Generation (GWh),Onshore wind energy,0.272,GWh,IRENA,,1251.886
+2021,Electricity Generation (GWh),Onshore wind energy,3480.5,GWh,IRENA,1279495.588235294,1740.386
+2022,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,1740.386
+2022,Electricity Generation (GWh),Onshore wind energy,0.272,GWh,IRENA,,1740.386
+2022,Electricity Generation (GWh),Onshore wind energy,4244.0,GWh,IRENA,1560194.1176470588,2122.136
+2023,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,2122.136
+2023,Electricity Generation (GWh),Onshore wind energy,,GWh,IRENA,,4244.0
+2000,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,
+2000,Electricity Generation (GWh),Renewable hydropower,2.174,GWh,IRENA,,2.174
+2000,Electricity Generation (GWh),Renewable hydropower,18273.5,GWh,IRENA,840447.3781048759,9137.837
+2001,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,9137.837
+2001,Electricity Generation (GWh),Renewable hydropower,2.102,GWh,IRENA,,9137.801
+2001,Electricity Generation (GWh),Renewable hydropower,18157.5,GWh,IRENA,863720.1712654616,9079.801
+2002,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,9079.801
+2002,Electricity Generation (GWh),Renewable hydropower,2.396,GWh,IRENA,,9079.948
+2002,Electricity Generation (GWh),Renewable hydropower,20703.0,GWh,IRENA,863965.1085141903,10352.698
+2003,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,10352.698
+2003,Electricity Generation (GWh),Renewable hydropower,2.588,GWh,IRENA,,10352.794
+2003,Electricity Generation (GWh),Renewable hydropower,24913.5,GWh,IRENA,962554.5595054097,12458.044
+2004,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,12458.044
+2004,Electricity Generation (GWh),Renewable hydropower,2.394,GWh,IRENA,,12457.947
+2004,Electricity Generation (GWh),Renewable hydropower,26574.0,GWh,IRENA,1109925.0626566417,13288.197
+2005,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,13288.197
+2005,Electricity Generation (GWh),Renewable hydropower,2.546,GWh,IRENA,,13288.273
+2005,Electricity Generation (GWh),Renewable hydropower,28263.0,GWh,IRENA,1109994.2655145328,14132.773
+2006,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,14132.773
+2006,Electricity Generation (GWh),Renewable hydropower,2.834,GWh,IRENA,,14132.917
+2006,Electricity Generation (GWh),Renewable hydropower,31398.5,GWh,IRENA,1107821.665490473,15700.667
+2007,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,15700.667
+2007,Electricity Generation (GWh),Renewable hydropower,2.728,GWh,IRENA,,15700.614
+2007,Electricity Generation (GWh),Renewable hydropower,30304.5,GWh,IRENA,1110768.7683284457,15153.614
+2008,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,15153.614
+2008,Electricity Generation (GWh),Renewable hydropower,6.944,GWh,IRENA,,15155.722
+2008,Electricity Generation (GWh),Renewable hydropower,28425.0,GWh,IRENA,409246.198156682,14215.972
+2009,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,14215.972
+2009,Electricity Generation (GWh),Renewable hydropower,24.496,GWh,IRENA,,14224.748
+2009,Electricity Generation (GWh),Renewable hydropower,28337.5,GWh,IRENA,115582.15218811235,14180.998
+2010,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,14180.998
+2010,Electricity Generation (GWh),Renewable hydropower,50.914,GWh,IRENA,,14194.207
+2010,Electricity Generation (GWh),Renewable hydropower,30241.0,GWh,IRENA,59296.23679145225,15145.957
+2011,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,15145.957
+2011,Electricity Generation (GWh),Renewable hydropower,56.775,GWh,IRENA,,15148.8875
+2011,Electricity Generation (GWh),Renewable hydropower,30316.0,GWh,IRENA,53296.741523557896,15186.3875
+2012,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,15186.3875
+2012,Electricity Generation (GWh),Renewable hydropower,69.817,GWh,IRENA,,15192.9085
+2012,Electricity Generation (GWh),Renewable hydropower,29315.0,GWh,IRENA,41888.3409484796,14692.4085
+2013,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,14692.4085
+2013,Electricity Generation (GWh),Renewable hydropower,74.908,GWh,IRENA,,14694.954
+2013,Electricity Generation (GWh),Renewable hydropower,31028.0,GWh,IRENA,41321.477011801144,15551.454
+2014,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,15551.454
+2014,Electricity Generation (GWh),Renewable hydropower,79.179,GWh,IRENA,,15553.5895
+2014,Electricity Generation (GWh),Renewable hydropower,32514.5,GWh,IRENA,40964.54994379823,16296.8395
+2015,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,16296.8395
+2015,Electricity Generation (GWh),Renewable hydropower,88.101,GWh,IRENA,,16301.3005
+2015,Electricity Generation (GWh),Renewable hydropower,33771.5,GWh,IRENA,38232.70904984052,16929.800499999998
+2016,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,16929.800499999998
+2016,Electricity Generation (GWh),Renewable hydropower,99.32,GWh,IRENA,,16935.409999999996
+2016,Electricity Generation (GWh),Renewable hydropower,33341.0,GWh,IRENA,33469.27104309303,16720.159999999996
+2017,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,16720.159999999996
+2017,Electricity Generation (GWh),Renewable hydropower,88.642,GWh,IRENA,,16714.820999999996
+2017,Electricity Generation (GWh),Renewable hydropower,30330.5,GWh,IRENA,34116.84980032039,15209.570999999996
+2018,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,15209.570999999996
+2018,Electricity Generation (GWh),Renewable hydropower,66.99,GWh,IRENA,,15198.744999999997
+2018,Electricity Generation (GWh),Renewable hydropower,30569.0,GWh,IRENA,45532.183908045976,15317.994999999997
+2019,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,15317.994999999997
+2019,Electricity Generation (GWh),Renewable hydropower,85.814,GWh,IRENA,,15327.406999999996
+2019,Electricity Generation (GWh),Renewable hydropower,35901.5,GWh,IRENA,41736.4136388002,17993.656999999996
+2020,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,17993.656999999996
+2020,Electricity Generation (GWh),Renewable hydropower,92.449,GWh,IRENA,,17996.974499999997
+2020,Electricity Generation (GWh),Renewable hydropower,39146.0,GWh,IRENA,42243.34606107151,19619.224499999997
+2021,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,19619.224499999997
+2021,Electricity Generation (GWh),Renewable hydropower,88.43,GWh,IRENA,,19617.214999999997
+2021,Electricity Generation (GWh),Renewable hydropower,37444.5,GWh,IRENA,42243.66165328508,18766.464999999997
+2022,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,18766.464999999997
+2022,Electricity Generation (GWh),Renewable hydropower,80.59,GWh,IRENA,,18762.544999999995
+2022,Electricity Generation (GWh),Renewable hydropower,36137.0,GWh,IRENA,44740.5509368408,18108.794999999995
+2023,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,18108.794999999995
+2023,Electricity Generation (GWh),Renewable hydropower,,GWh,IRENA,,36137.0
+2000,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2001,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2002,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2003,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2004,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2005,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2006,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2007,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2008,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2009,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2010,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2011,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2012,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2013,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2014,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2015,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2016,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2017,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2018,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2019,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2020,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2021,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2022,Electricity Generation (GWh),Solar energy,,GWh,IRENA,,
+2002,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2007,Electricity Generation (GWh),Solar photovoltaic,0.202,GWh,IRENA,,0.202
+2008,Electricity Generation (GWh),Solar photovoltaic,1.642,GWh,IRENA,712.8712871287128,0.9219999999999999
+2009,Electricity Generation (GWh),Solar photovoltaic,9.605,GWh,IRENA,484.9573690621194,3.816333333333333
+2010,Electricity Generation (GWh),Solar photovoltaic,0.009,GWh,IRENA,-99.90629880270691,3.7520000000000002
+2010,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,4.807
+2010,Electricity Generation (GWh),Solar photovoltaic,13.32,GWh,IRENA,,6.6645
+2011,Electricity Generation (GWh),Solar photovoltaic,0.019,GWh,IRENA,-99.85735735735736,6.6695
+2011,Electricity Generation (GWh),Solar photovoltaic,26.784,GWh,IRENA,140868.42105263157,13.374333333333333
+2011,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,13.401499999999999
+2012,Electricity Generation (GWh),Solar photovoltaic,0.106,GWh,IRENA,,13.445
+2012,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,0.106
+2012,Electricity Generation (GWh),Solar photovoltaic,65.621,GWh,IRENA,,32.8635
+2012,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,65.621
+2013,Electricity Generation (GWh),Solar photovoltaic,0.233,GWh,IRENA,,32.927
+2013,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,0.233
+2013,Electricity Generation (GWh),Solar photovoltaic,144.49,GWh,IRENA,,72.3615
+2013,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,144.49
+2014,Electricity Generation (GWh),Solar photovoltaic,0.424,GWh,IRENA,,72.45700000000001
+2014,Electricity Generation (GWh),Solar photovoltaic,237.47,GWh,IRENA,55907.07547169811,118.947
+2014,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,118.947
+2015,Electricity Generation (GWh),Solar photovoltaic,0.639,GWh,IRENA,,119.0545
+2015,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,0.639
+2015,Electricity Generation (GWh),Solar photovoltaic,380.97,GWh,IRENA,,190.80450000000002
+2015,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,380.97
+2016,Electricity Generation (GWh),Solar photovoltaic,0.73,GWh,IRENA,,190.85000000000002
+2016,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,0.73
+2016,Electricity Generation (GWh),Solar photovoltaic,681.47,GWh,IRENA,,341.1
+2016,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,681.47
+2016,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,681.47
+2017,Electricity Generation (GWh),Solar photovoltaic,17.734,GWh,IRENA,,17.734
+2017,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,17.734
+2017,Electricity Generation (GWh),Solar photovoltaic,897.97,GWh,IRENA,,457.85200000000003
+2017,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,897.97
+2017,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,897.97
+2017,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2018,Electricity Generation (GWh),Solar photovoltaic,19.27,GWh,IRENA,,19.27
+2018,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,19.27
+2018,Electricity Generation (GWh),Solar photovoltaic,901.97,GWh,IRENA,,460.62
+2018,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,901.97
+2018,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,901.97
+2018,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2018,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2019,Electricity Generation (GWh),Solar photovoltaic,22.377,GWh,IRENA,,22.377
+2019,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,22.377
+2019,Electricity Generation (GWh),Solar photovoltaic,898.47,GWh,IRENA,,460.4235
+2019,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,898.47
+2019,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,898.47
+2019,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2019,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2020,Electricity Generation (GWh),Solar photovoltaic,24.256,GWh,IRENA,,24.256
+2020,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,24.256
+2020,Electricity Generation (GWh),Solar photovoltaic,1002.09,GWh,IRENA,,513.173
+2020,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,1002.09
+2020,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,1002.09
+2020,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2020,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2021,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2021,Electricity Generation (GWh),Solar photovoltaic,24.392,GWh,IRENA,,24.392
+2021,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,24.392
+2021,Electricity Generation (GWh),Solar photovoltaic,1142.21,GWh,IRENA,,583.301
+2021,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,1142.21
+2021,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,1142.21
+2021,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2021,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2022,Electricity Generation (GWh),Solar photovoltaic,23.912,GWh,IRENA,,23.912
+2022,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,23.912
+2022,Electricity Generation (GWh),Solar photovoltaic,1240.71,GWh,IRENA,,632.311
+2022,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,1240.71
+2022,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,1240.71
+2022,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2022,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2023,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2023,Electricity Generation (GWh),Solar photovoltaic,,GWh,IRENA,,
+2000,Electricity Generation (GWh),Solid biofuels,1158.315,GWh,IRENA,,1158.315
+2000,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1158.315
+2001,Electricity Generation (GWh),Solid biofuels,1090.158,GWh,IRENA,,1124.2365
+2001,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1090.158
+2002,Electricity Generation (GWh),Solid biofuels,1201.04,GWh,IRENA,,1145.599
+2002,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1201.04
+2003,Electricity Generation (GWh),Solid biofuels,1301.395,GWh,IRENA,,1251.2175
+2003,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1301.395
+2004,Electricity Generation (GWh),Solid biofuels,1345.5,GWh,IRENA,,1323.4475
+2004,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1345.5
+2005,Electricity Generation (GWh),Solid biofuels,1181.103,GWh,IRENA,,1263.3015
+2005,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1181.103
+2006,Electricity Generation (GWh),Solid biofuels,1116.638,GWh,IRENA,,1148.8705
+2006,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1116.638
+2007,Electricity Generation (GWh),Solid biofuels,1368.54,GWh,IRENA,,1242.589
+2007,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1368.54
+2008,Electricity Generation (GWh),Solid biofuels,1598.0,GWh,IRENA,,1483.27
+2008,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1598.0
+2009,Electricity Generation (GWh),Solid biofuels,1251.135,GWh,IRENA,,1424.5675
+2009,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1251.135
+2010,Electricity Generation (GWh),Solid biofuels,1234.323,GWh,IRENA,,1242.729
+2010,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1234.323
+2011,Electricity Generation (GWh),Solid biofuels,1382.713,GWh,IRENA,,1308.518
+2011,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1382.713
+2012,Electricity Generation (GWh),Solid biofuels,1459.925,GWh,IRENA,,1421.319
+2012,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1459.925
+2013,Electricity Generation (GWh),Solid biofuels,1686.502,GWh,IRENA,,1573.2134999999998
+2013,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1686.502
+2013,Electricity Generation (GWh),Solid biofuels,21.024,GWh,IRENA,,853.7629999999999
+2014,Electricity Generation (GWh),Solid biofuels,1599.261,GWh,IRENA,7506.8350456621,810.1424999999999
+2014,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,810.1424999999999
+2014,Electricity Generation (GWh),Solid biofuels,35.04,GWh,IRENA,,817.1505
+2015,Electricity Generation (GWh),Solid biofuels,1963.058,GWh,IRENA,5502.334474885845,999.049
+2015,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,999.049
+2015,Electricity Generation (GWh),Solid biofuels,35.04,GWh,IRENA,,999.049
+2016,Electricity Generation (GWh),Solid biofuels,2533.456,GWh,IRENA,7130.1826484018275,1284.248
+2016,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1284.248
+2016,Electricity Generation (GWh),Solid biofuels,143.664,GWh,IRENA,,1338.56
+2016,Electricity Generation (GWh),Solid biofuels,35.04,GWh,IRENA,-75.60975609756098,89.35199999999999
+2017,Electricity Generation (GWh),Solid biofuels,3090.719,GWh,IRENA,8720.545091324202,1089.8076666666668
+2017,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1562.8795
+2017,Electricity Generation (GWh),Solid biofuels,143.664,GWh,IRENA,,1617.1915
+2017,Electricity Generation (GWh),Solid biofuels,35.04,GWh,IRENA,-75.60975609756098,89.35199999999999
+2018,Electricity Generation (GWh),Solid biofuels,2715.349,GWh,IRENA,7649.283675799087,964.6843333333335
+2018,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1375.1945
+2018,Electricity Generation (GWh),Solid biofuels,143.664,GWh,IRENA,,1429.5065
+2018,Electricity Generation (GWh),Solid biofuels,35.04,GWh,IRENA,-75.60975609756098,89.35199999999999
+2019,Electricity Generation (GWh),Solid biofuels,2549.49,GWh,IRENA,7175.941780821917,909.398
+2019,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1292.2649999999999
+2019,Electricity Generation (GWh),Solid biofuels,143.664,GWh,IRENA,,1346.5769999999998
+2019,Electricity Generation (GWh),Solid biofuels,35.04,GWh,IRENA,-75.60975609756098,89.35199999999999
+2020,Electricity Generation (GWh),Solid biofuels,2641.232,GWh,IRENA,7437.762557077626,939.9786666666668
+2020,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1338.136
+2020,Electricity Generation (GWh),Solid biofuels,143.664,GWh,IRENA,,1392.4479999999999
+2020,Electricity Generation (GWh),Solid biofuels,35.04,GWh,IRENA,-75.60975609756098,89.35199999999999
+2021,Electricity Generation (GWh),Solid biofuels,3004.265,GWh,IRENA,8473.815639269407,1060.9896666666666
+2021,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1519.6525000000001
+2021,Electricity Generation (GWh),Solid biofuels,143.664,GWh,IRENA,,1573.9645
+2021,Electricity Generation (GWh),Solid biofuels,35.04,GWh,IRENA,-75.60975609756098,89.35199999999999
+2022,Electricity Generation (GWh),Solid biofuels,3004.265,GWh,IRENA,8473.815639269407,1060.9896666666666
+2022,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,1519.6525000000001
+2022,Electricity Generation (GWh),Solid biofuels,143.664,GWh,IRENA,,1573.9645
+2022,Electricity Generation (GWh),Solid biofuels,35.04,GWh,IRENA,-75.60975609756098,89.35199999999999
+2023,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,89.35199999999999
+2023,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,35.04
+2023,Electricity Generation (GWh),Solid biofuels,,GWh,IRENA,,
+2007,Electricity Installed Capacity (MW),Biogas,4.3,MW,IRENA,,4.3
+2008,Electricity Installed Capacity (MW),Biogas,8.5,MW,IRENA,97.67441860465117,6.4
+2009,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,6.4
+2009,Electricity Installed Capacity (MW),Biogas,8.5,MW,IRENA,,8.5
+2010,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,8.5
+2010,Electricity Installed Capacity (MW),Biogas,0.096,MW,IRENA,,4.298
+2010,Electricity Installed Capacity (MW),Biogas,8.5,MW,IRENA,8754.166666666666,4.298
+2011,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,4.298
+2011,Electricity Installed Capacity (MW),Biogas,0.096,MW,IRENA,,4.298
+2011,Electricity Installed Capacity (MW),Biogas,8.5,MW,IRENA,8754.166666666666,4.298
+2012,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,4.298
+2012,Electricity Installed Capacity (MW),Biogas,0.406,MW,IRENA,,4.453
+2012,Electricity Installed Capacity (MW),Biogas,8.5,MW,IRENA,1993.5960591133003,4.453
+2013,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,4.453
+2013,Electricity Installed Capacity (MW),Biogas,0.406,MW,IRENA,,4.453
+2013,Electricity Installed Capacity (MW),Biogas,8.5,MW,IRENA,1993.5960591133003,4.453
+2014,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,4.453
+2014,Electricity Installed Capacity (MW),Biogas,0.406,MW,IRENA,,4.453
+2014,Electricity Installed Capacity (MW),Biogas,8.5,MW,IRENA,1993.5960591133003,4.453
+2015,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,4.453
+2015,Electricity Installed Capacity (MW),Biogas,0.406,MW,IRENA,,4.453
+2015,Electricity Installed Capacity (MW),Biogas,8.5,MW,IRENA,1993.5960591133003,4.453
+2016,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,4.453
+2016,Electricity Installed Capacity (MW),Biogas,0.406,MW,IRENA,,4.453
+2016,Electricity Installed Capacity (MW),Biogas,8.65,MW,IRENA,2030.5418719211823,4.5280000000000005
+2017,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,4.5280000000000005
+2017,Electricity Installed Capacity (MW),Biogas,0.424,MW,IRENA,,4.537
+2017,Electricity Installed Capacity (MW),Biogas,8.65,MW,IRENA,1940.0943396226417,4.537
+2018,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,4.537
+2018,Electricity Installed Capacity (MW),Biogas,0.424,MW,IRENA,,4.537
+2018,Electricity Installed Capacity (MW),Biogas,8.65,MW,IRENA,1940.0943396226417,4.537
+2019,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,4.537
+2019,Electricity Installed Capacity (MW),Biogas,0.424,MW,IRENA,,4.537
+2019,Electricity Installed Capacity (MW),Biogas,8.65,MW,IRENA,1940.0943396226417,4.537
+2020,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,4.537
+2020,Electricity Installed Capacity (MW),Biogas,0.424,MW,IRENA,,4.537
+2020,Electricity Installed Capacity (MW),Biogas,8.65,MW,IRENA,1940.0943396226417,4.537
+2021,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,4.537
+2021,Electricity Installed Capacity (MW),Biogas,0.424,MW,IRENA,,4.537
+2021,Electricity Installed Capacity (MW),Biogas,8.65,MW,IRENA,1940.0943396226417,4.537
+2022,Electricity Installed Capacity (MW),Biogas,,MW,IRENA,,4.537
+2022,Electricity Installed Capacity (MW),Biogas,0.424,MW,IRENA,,4.537
+2022,Electricity Installed Capacity (MW),Biogas,8.65,MW,IRENA,1940.0943396226417,4.537
+2023,Electricity Installed Capacity (MW),Biogas,0.424,MW,IRENA,-95.09826589595376,3.166
+2023,Electricity Installed Capacity (MW),Biogas,8.65,MW,IRENA,1940.0943396226417,5.908
+2014,Electricity Installed Capacity (MW),Coal and peat,,MW,IRENA,,
+2016,Electricity Installed Capacity (MW),Coal and peat,,MW,IRENA,,
+2020,Electricity Installed Capacity (MW),Coal and peat,,MW,IRENA,,
+2022,Electricity Installed Capacity (MW),Coal and peat,660.0,MW,IRENA,,660.0
+2023,Electricity Installed Capacity (MW),Coal and peat,1320.0,MW,IRENA,100.0,990.0
+2000,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,
+2000,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,12441.0,MW,IRENA,,12441.0
+2001,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,12441.0
+2001,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,12174.0,MW,IRENA,,12307.5
+2002,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,12174.0
+2002,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,12285.0,MW,IRENA,,12229.5
+2003,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,12299.0,MW,IRENA,0.11396011396011395,12292.0
+2004,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,12292.0
+2004,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,12722.0,MW,IRENA,,12510.5
+2005,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,12722.0
+2005,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,12760.0,MW,IRENA,,12741.0
+2006,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,12606.0,MW,IRENA,-1.206896551724138,12683.0
+2007,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,12683.0
+2007,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,12756.0,MW,IRENA,,12681.0
+2008,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,12756.0
+2008,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,13215.0,MW,IRENA,,12985.5
+2009,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,13539.0,MW,IRENA,2.4517593643586832,13377.0
+2010,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,13377.0
+2010,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,14597.0,MW,IRENA,,14068.0
+2011,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,15895.0,MW,IRENA,8.892238131122832,15246.0
+2012,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,15246.0
+2012,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,16069.0,MW,IRENA,,15982.0
+2013,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,16069.0
+2013,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,16041.0,MW,IRENA,,16055.0
+2014,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,16041.0
+2014,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,16366.0,MW,IRENA,,16203.5
+2015,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,16814.0,MW,IRENA,2.737382378100941,16590.0
+2016,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,16701.0,MW,IRENA,-0.6720589984536696,16627.0
+2017,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,21300.0,MW,IRENA,27.537273217172626,18271.666666666668
+2018,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,23900.0,MW,IRENA,12.206572769953052,20633.666666666668
+2019,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,22600.0
+2019,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,25880.0,MW,IRENA,,24890.0
+2020,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,25880.0,MW,IRENA,0.0,25880.0
+2021,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,,MW,IRENA,,25880.0
+2021,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,25922.0,MW,IRENA,,25901.0
+2022,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,27185.0,MW,IRENA,4.872309235398503,26553.5
+2023,Electricity Installed Capacity (MW),Fossil fuels n.e.s.,27185.0,MW,IRENA,0.0,26764.0
+2000,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2001,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2002,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2003,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2004,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2005,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2006,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2007,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2008,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2009,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2010,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2011,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2012,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2013,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2014,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2015,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2016,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2017,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2018,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2019,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2020,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2021,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2022,Electricity Installed Capacity (MW),Geothermal energy,,MW,IRENA,,
+2000,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2001,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2002,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2003,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2004,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2005,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2006,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2007,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2008,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2009,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2010,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2011,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2012,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2013,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2014,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2015,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2016,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2017,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2018,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2019,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2020,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2021,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2022,Electricity Installed Capacity (MW),Marine energy,,MW,IRENA,,
+2001,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2003,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2004,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2005,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2006,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2007,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2008,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2009,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2010,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2011,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2012,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2013,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2014,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2015,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2016,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2017,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2019,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2020,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2021,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2022,Electricity Installed Capacity (MW),Multiple renewables*,,MW,IRENA,,
+2011,Electricity Installed Capacity (MW),Natural gas,,MW,IRENA,,
+2014,Electricity Installed Capacity (MW),Natural gas,,MW,IRENA,,
+2015,Electricity Installed Capacity (MW),Natural gas,,MW,IRENA,,
+2000,Electricity Installed Capacity (MW),Nuclear,462.0,MW,IRENA,,462.0
+2001,Electricity Installed Capacity (MW),Nuclear,462.0,MW,IRENA,0.0,462.0
+2002,Electricity Installed Capacity (MW),Nuclear,462.0,MW,IRENA,0.0,462.0
+2003,Electricity Installed Capacity (MW),Nuclear,462.0,MW,IRENA,0.0,462.0
+2004,Electricity Installed Capacity (MW),Nuclear,,MW,IRENA,,462.0
+2004,Electricity Installed Capacity (MW),Nuclear,462.0,MW,IRENA,,462.0
+2005,Electricity Installed Capacity (MW),Nuclear,462.0,MW,IRENA,0.0,462.0
+2006,Electricity Installed Capacity (MW),Nuclear,,MW,IRENA,,462.0
+2006,Electricity Installed Capacity (MW),Nuclear,462.0,MW,IRENA,,462.0
+2007,Electricity Installed Capacity (MW),Nuclear,462.0,MW,IRENA,0.0,462.0
+2008,Electricity Installed Capacity (MW),Nuclear,,MW,IRENA,,462.0
+2008,Electricity Installed Capacity (MW),Nuclear,462.0,MW,IRENA,,462.0
+2009,Electricity Installed Capacity (MW),Nuclear,,MW,IRENA,,462.0
+2009,Electricity Installed Capacity (MW),Nuclear,462.0,MW,IRENA,,462.0
+2010,Electricity Installed Capacity (MW),Nuclear,,MW,IRENA,,462.0
+2010,Electricity Installed Capacity (MW),Nuclear,462.0,MW,IRENA,,462.0
+2011,Electricity Installed Capacity (MW),Nuclear,,MW,IRENA,,462.0
+2011,Electricity Installed Capacity (MW),Nuclear,787.0,MW,IRENA,,624.5
+2012,Electricity Installed Capacity (MW),Nuclear,,MW,IRENA,,787.0
+2012,Electricity Installed Capacity (MW),Nuclear,787.0,MW,IRENA,,787.0
+2013,Electricity Installed Capacity (MW),Nuclear,787.0,MW,IRENA,0.0,787.0
+2014,Electricity Installed Capacity (MW),Nuclear,,MW,IRENA,,787.0
+2014,Electricity Installed Capacity (MW),Nuclear,787.0,MW,IRENA,,787.0
+2015,Electricity Installed Capacity (MW),Nuclear,787.0,MW,IRENA,0.0,787.0
+2016,Electricity Installed Capacity (MW),Nuclear,752.0,MW,IRENA,-4.447268106734435,775.3333333333334
+2017,Electricity Installed Capacity (MW),Nuclear,1142.0,MW,IRENA,51.86170212765957,893.6666666666666
+2018,Electricity Installed Capacity (MW),Nuclear,1142.0,MW,IRENA,0.0,1012.0
+2019,Electricity Installed Capacity (MW),Nuclear,1142.0,MW,IRENA,0.0,1142.0
+2020,Electricity Installed Capacity (MW),Nuclear,1142.0,MW,IRENA,0.0,1142.0
+2021,Electricity Installed Capacity (MW),Nuclear,2287.0,MW,IRENA,100.26269702276707,1523.6666666666667
+2022,Electricity Installed Capacity (MW),Nuclear,3620.0,MW,IRENA,58.28596414516834,2349.6666666666665
+2023,Electricity Installed Capacity (MW),Nuclear,3620.0,MW,IRENA,0.0,3175.6666666666665
+2000,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,
+2001,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,
+2002,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,
+2003,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,
+2004,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,
+2005,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,
+2006,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,
+2007,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,
+2008,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,
+2008,Electricity Installed Capacity (MW),Onshore wind energy,6.0,MW,IRENA,,6.0
+2009,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,6.0
+2009,Electricity Installed Capacity (MW),Onshore wind energy,6.0,MW,IRENA,,6.0
+2010,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,6.0
+2010,Electricity Installed Capacity (MW),Onshore wind energy,6.0,MW,IRENA,,6.0
+2011,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,6.0
+2011,Electricity Installed Capacity (MW),Onshore wind energy,6.0,MW,IRENA,,6.0
+2012,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,6.0
+2012,Electricity Installed Capacity (MW),Onshore wind energy,0.155,MW,IRENA,,3.0775
+2012,Electricity Installed Capacity (MW),Onshore wind energy,56.0,MW,IRENA,36029.032258064515,28.0775
+2013,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,28.0775
+2013,Electricity Installed Capacity (MW),Onshore wind energy,0.155,MW,IRENA,,28.0775
+2013,Electricity Installed Capacity (MW),Onshore wind energy,105.9,MW,IRENA,68222.58064516129,53.0275
+2014,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,53.0275
+2014,Electricity Installed Capacity (MW),Onshore wind energy,0.155,MW,IRENA,,53.0275
+2014,Electricity Installed Capacity (MW),Onshore wind energy,205.4,MW,IRENA,132416.12903225806,102.7775
+2015,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,102.7775
+2015,Electricity Installed Capacity (MW),Onshore wind energy,0.155,MW,IRENA,,102.7775
+2015,Electricity Installed Capacity (MW),Onshore wind energy,308.2,MW,IRENA,198738.70967741936,154.1775
+2016,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,154.1775
+2016,Electricity Installed Capacity (MW),Onshore wind energy,0.155,MW,IRENA,,154.17749999999998
+2016,Electricity Installed Capacity (MW),Onshore wind energy,590.5,MW,IRENA,380867.7419354839,295.3275
+2017,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,295.3275
+2017,Electricity Installed Capacity (MW),Onshore wind energy,0.155,MW,IRENA,,295.3275
+2017,Electricity Installed Capacity (MW),Onshore wind energy,789.0,MW,IRENA,508932.2580645162,394.5775
+2018,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,394.5775
+2018,Electricity Installed Capacity (MW),Onshore wind energy,0.155,MW,IRENA,,394.5775
+2018,Electricity Installed Capacity (MW),Onshore wind energy,1185.7,MW,IRENA,764867.7419354839,592.9275
+2019,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,592.9275
+2019,Electricity Installed Capacity (MW),Onshore wind energy,0.155,MW,IRENA,,592.9275
+2019,Electricity Installed Capacity (MW),Onshore wind energy,1235.7,MW,IRENA,797125.806451613,617.9275
+2020,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,617.9275
+2020,Electricity Installed Capacity (MW),Onshore wind energy,0.155,MW,IRENA,,617.9275
+2020,Electricity Installed Capacity (MW),Onshore wind energy,1235.7,MW,IRENA,797125.806451613,617.9275
+2021,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,617.9275
+2021,Electricity Installed Capacity (MW),Onshore wind energy,0.155,MW,IRENA,,617.9275
+2021,Electricity Installed Capacity (MW),Onshore wind energy,1335.0,MW,IRENA,861190.3225806452,667.5775
+2022,Electricity Installed Capacity (MW),Onshore wind energy,,MW,IRENA,,667.5775
+2022,Electricity Installed Capacity (MW),Onshore wind energy,0.155,MW,IRENA,,667.5775
+2022,Electricity Installed Capacity (MW),Onshore wind energy,1845.0,MW,IRENA,1190222.5806451614,922.5775
+2023,Electricity Installed Capacity (MW),Onshore wind energy,0.155,MW,IRENA,-99.99159891598917,615.1033333333334
+2023,Electricity Installed Capacity (MW),Onshore wind energy,1845.0,MW,IRENA,1190222.5806451614,1230.0516666666665
+2000,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,
+2000,Electricity Installed Capacity (MW),Renewable hydropower,0.59,MW,IRENA,,0.59
+2000,Electricity Installed Capacity (MW),Renewable hydropower,4959.7,MW,IRENA,840527.1186440678,2480.145
+2001,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,2480.145
+2001,Electricity Installed Capacity (MW),Renewable hydropower,0.59,MW,IRENA,,2480.145
+2001,Electricity Installed Capacity (MW),Renewable hydropower,5097.7,MW,IRENA,863916.9491525423,2549.145
+2002,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,2549.145
+2002,Electricity Installed Capacity (MW),Renewable hydropower,0.59,MW,IRENA,,2549.145
+2002,Electricity Installed Capacity (MW),Renewable hydropower,5097.7,MW,IRENA,863916.9491525423,2549.145
+2003,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,2549.145
+2003,Electricity Installed Capacity (MW),Renewable hydropower,0.59,MW,IRENA,,2549.145
+2003,Electricity Installed Capacity (MW),Renewable hydropower,5678.7,MW,IRENA,962391.5254237289,2839.645
+2004,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,2839.645
+2004,Electricity Installed Capacity (MW),Renewable hydropower,0.59,MW,IRENA,,2839.645
+2004,Electricity Installed Capacity (MW),Renewable hydropower,6548.7,MW,IRENA,1109849.152542373,3274.645
+2005,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3274.645
+2005,Electricity Installed Capacity (MW),Renewable hydropower,0.59,MW,IRENA,,3274.645
+2005,Electricity Installed Capacity (MW),Renewable hydropower,6550.1,MW,IRENA,1110086.4406779662,3275.3450000000003
+2006,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3275.3450000000003
+2006,Electricity Installed Capacity (MW),Renewable hydropower,0.59,MW,IRENA,,3275.3450000000003
+2006,Electricity Installed Capacity (MW),Renewable hydropower,6536.1,MW,IRENA,1107713.559322034,3268.3450000000003
+2007,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3268.3450000000003
+2007,Electricity Installed Capacity (MW),Renewable hydropower,0.59,MW,IRENA,,3268.3450000000003
+2007,Electricity Installed Capacity (MW),Renewable hydropower,6554.4,MW,IRENA,1110815.2542372881,3277.495
+2008,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3277.495
+2008,Electricity Installed Capacity (MW),Renewable hydropower,1.625,MW,IRENA,,3278.0125
+2008,Electricity Installed Capacity (MW),Renewable hydropower,6651.6,MW,IRENA,409229.2307692308,3326.6125
+2009,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3326.6125
+2009,Electricity Installed Capacity (MW),Renewable hydropower,5.75,MW,IRENA,,3328.675
+2009,Electricity Installed Capacity (MW),Renewable hydropower,6651.6,MW,IRENA,115580.0,3328.675
+2010,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3328.675
+2010,Electricity Installed Capacity (MW),Renewable hydropower,11.32,MW,IRENA,,3331.46
+2010,Electricity Installed Capacity (MW),Renewable hydropower,6723.6,MW,IRENA,59295.75971731449,3367.46
+2011,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3367.46
+2011,Electricity Installed Capacity (MW),Renewable hydropower,12.596,MW,IRENA,,3368.098
+2011,Electricity Installed Capacity (MW),Renewable hydropower,6725.8,MW,IRENA,53296.316290886,3369.198
+2012,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3369.198
+2012,Electricity Installed Capacity (MW),Renewable hydropower,16.104,MW,IRENA,,3370.952
+2012,Electricity Installed Capacity (MW),Renewable hydropower,6761.8,MW,IRENA,41888.325881768505,3388.952
+2013,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3388.952
+2013,Electricity Installed Capacity (MW),Renewable hydropower,17.074,MW,IRENA,,3389.437
+2013,Electricity Installed Capacity (MW),Renewable hydropower,7072.3,MW,IRENA,41321.459529108586,3544.687
+2014,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3544.687
+2014,Electricity Installed Capacity (MW),Renewable hydropower,17.539,MW,IRENA,,3544.9195
+2014,Electricity Installed Capacity (MW),Renewable hydropower,7202.3,MW,IRENA,40964.48486230686,3609.9195
+2015,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3609.9195
+2015,Electricity Installed Capacity (MW),Renewable hydropower,18.789,MW,IRENA,,3610.5445
+2015,Electricity Installed Capacity (MW),Renewable hydropower,7202.3,MW,IRENA,38232.534993879395,3610.5445
+2016,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3610.5445
+2016,Electricity Installed Capacity (MW),Renewable hydropower,21.544,MW,IRENA,,3611.922
+2016,Electricity Installed Capacity (MW),Renewable hydropower,7232.2,MW,IRENA,33469.43928704047,3626.872
+2017,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3626.872
+2017,Electricity Installed Capacity (MW),Renewable hydropower,21.58,MW,IRENA,,3626.89
+2017,Electricity Installed Capacity (MW),Renewable hydropower,7384.0,MW,IRENA,34116.86746987952,3702.79
+2018,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,3702.79
+2018,Electricity Installed Capacity (MW),Renewable hydropower,21.66,MW,IRENA,,3702.83
+2018,Electricity Installed Capacity (MW),Renewable hydropower,9884.0,MW,IRENA,45532.50230840259,4952.83
+2019,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,4952.83
+2019,Electricity Installed Capacity (MW),Renewable hydropower,23.666,MW,IRENA,,4953.833
+2019,Electricity Installed Capacity (MW),Renewable hydropower,9901.0,MW,IRENA,41736.38975745796,4962.333
+2020,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,4962.333
+2020,Electricity Installed Capacity (MW),Renewable hydropower,23.666,MW,IRENA,,4962.333
+2020,Electricity Installed Capacity (MW),Renewable hydropower,10021.0,MW,IRENA,42243.44629426181,5022.333
+2021,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,5022.333
+2021,Electricity Installed Capacity (MW),Renewable hydropower,23.666,MW,IRENA,,5022.333
+2021,Electricity Installed Capacity (MW),Renewable hydropower,10021.0,MW,IRENA,42243.44629426181,5022.333
+2022,Electricity Installed Capacity (MW),Renewable hydropower,,MW,IRENA,,5022.333
+2022,Electricity Installed Capacity (MW),Renewable hydropower,23.666,MW,IRENA,,5022.333
+2022,Electricity Installed Capacity (MW),Renewable hydropower,10612.0,MW,IRENA,44740.69973802079,5317.833
+2023,Electricity Installed Capacity (MW),Renewable hydropower,23.666,MW,IRENA,-99.77698831511496,3553.110666666666
+2023,Electricity Installed Capacity (MW),Renewable hydropower,10612.0,MW,IRENA,44740.69973802079,7082.555333333333
+2000,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2001,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2002,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2003,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2004,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2005,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2006,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2007,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2008,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2009,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2010,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2011,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2012,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2013,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2014,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2015,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2016,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2017,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2018,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2019,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2020,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2021,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2022,Electricity Installed Capacity (MW),Solar energy,,MW,IRENA,,
+2002,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2007,Electricity Installed Capacity (MW),Solar photovoltaic,0.14,MW,IRENA,,0.14
+2008,Electricity Installed Capacity (MW),Solar photovoltaic,1.14,MW,IRENA,714.2857142857141,0.6399999999999999
+2009,Electricity Installed Capacity (MW),Solar photovoltaic,6.67,MW,IRENA,485.08771929824564,2.65
+2010,Electricity Installed Capacity (MW),Solar photovoltaic,0.006,MW,IRENA,-99.91004497751123,2.6053333333333333
+2010,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,3.338
+2010,Electricity Installed Capacity (MW),Solar photovoltaic,9.25,MW,IRENA,,4.628
+2011,Electricity Installed Capacity (MW),Solar photovoltaic,0.013,MW,IRENA,-99.85945945945946,4.6315
+2011,Electricity Installed Capacity (MW),Solar photovoltaic,18.6,MW,IRENA,142976.92307692306,9.287666666666667
+2011,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,9.3065
+2012,Electricity Installed Capacity (MW),Solar photovoltaic,0.073,MW,IRENA,,9.3365
+2012,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,0.073
+2012,Electricity Installed Capacity (MW),Solar photovoltaic,45.57,MW,IRENA,,22.8215
+2012,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,45.57
+2013,Electricity Installed Capacity (MW),Solar photovoltaic,0.162,MW,IRENA,,22.865999999999996
+2013,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,0.162
+2013,Electricity Installed Capacity (MW),Solar photovoltaic,100.34,MW,IRENA,,50.251
+2013,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,100.34
+2014,Electricity Installed Capacity (MW),Solar photovoltaic,0.294,MW,IRENA,,50.31699999999999
+2014,Electricity Installed Capacity (MW),Solar photovoltaic,164.91,MW,IRENA,55991.836734693876,82.60199999999999
+2014,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,82.60199999999999
+2015,Electricity Installed Capacity (MW),Solar photovoltaic,0.444,MW,IRENA,,82.67699999999998
+2015,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,0.444
+2015,Electricity Installed Capacity (MW),Solar photovoltaic,264.91,MW,IRENA,,132.677
+2015,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,264.91
+2016,Electricity Installed Capacity (MW),Solar photovoltaic,0.507,MW,IRENA,,132.7085
+2016,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,0.507
+2016,Electricity Installed Capacity (MW),Solar photovoltaic,588.91,MW,IRENA,,294.70849999999996
+2016,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,588.91
+2016,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,588.91
+2017,Electricity Installed Capacity (MW),Solar photovoltaic,12.315,MW,IRENA,,12.315
+2017,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,12.315
+2017,Electricity Installed Capacity (MW),Solar photovoltaic,642.91,MW,IRENA,,327.6125
+2017,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,642.91
+2017,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,642.91
+2017,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2018,Electricity Installed Capacity (MW),Solar photovoltaic,13.382,MW,IRENA,,13.382
+2018,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,13.382
+2018,Electricity Installed Capacity (MW),Solar photovoltaic,666.91,MW,IRENA,,340.14599999999996
+2018,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,666.91
+2018,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,666.91
+2018,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2018,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2019,Electricity Installed Capacity (MW),Solar photovoltaic,15.54,MW,IRENA,,15.54
+2019,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,15.54
+2019,Electricity Installed Capacity (MW),Solar photovoltaic,740.91,MW,IRENA,,378.22499999999997
+2019,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,740.91
+2019,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,740.91
+2019,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2019,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2020,Electricity Installed Capacity (MW),Solar photovoltaic,16.844,MW,IRENA,,16.844
+2020,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,16.844
+2020,Electricity Installed Capacity (MW),Solar photovoltaic,837.91,MW,IRENA,,427.377
+2020,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,837.91
+2020,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,837.91
+2020,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2020,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2021,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2021,Electricity Installed Capacity (MW),Solar photovoltaic,16.939,MW,IRENA,,16.939
+2021,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,16.939
+2021,Electricity Installed Capacity (MW),Solar photovoltaic,1060.91,MW,IRENA,,538.9245000000001
+2021,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,1060.91
+2021,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,1060.91
+2021,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2021,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2022,Electricity Installed Capacity (MW),Solar photovoltaic,16.606,MW,IRENA,,16.606
+2022,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,16.606
+2022,Electricity Installed Capacity (MW),Solar photovoltaic,1226.91,MW,IRENA,,621.758
+2022,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,1226.91
+2022,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,1226.91
+2022,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2022,Electricity Installed Capacity (MW),Solar photovoltaic,,MW,IRENA,,
+2023,Electricity Installed Capacity (MW),Solar photovoltaic,16.606,MW,IRENA,,16.606
+2023,Electricity Installed Capacity (MW),Solar photovoltaic,1226.91,MW,IRENA,7288.353607129953,621.758
+2000,Electricity Installed Capacity (MW),Solid biofuels,215.6,MW,IRENA,,215.6
+2000,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,215.6
+2001,Electricity Installed Capacity (MW),Solid biofuels,215.6,MW,IRENA,,215.6
+2001,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,215.6
+2002,Electricity Installed Capacity (MW),Solid biofuels,221.6,MW,IRENA,,218.6
+2002,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,221.6
+2003,Electricity Installed Capacity (MW),Solid biofuels,221.6,MW,IRENA,,221.6
+2003,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,221.6
+2004,Electricity Installed Capacity (MW),Solid biofuels,226.6,MW,IRENA,,224.1
+2004,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,226.6
+2005,Electricity Installed Capacity (MW),Solid biofuels,226.6,MW,IRENA,,226.6
+2005,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,226.6
+2006,Electricity Installed Capacity (MW),Solid biofuels,226.6,MW,IRENA,,226.6
+2006,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,226.6
+2007,Electricity Installed Capacity (MW),Solid biofuels,238.6,MW,IRENA,,232.6
+2007,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,238.6
+2008,Electricity Installed Capacity (MW),Solid biofuels,253.6,MW,IRENA,,246.1
+2008,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,253.6
+2009,Electricity Installed Capacity (MW),Solid biofuels,253.6,MW,IRENA,,253.6
+2009,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,253.6
+2010,Electricity Installed Capacity (MW),Solid biofuels,253.6,MW,IRENA,,253.6
+2010,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,253.6
+2011,Electricity Installed Capacity (MW),Solid biofuels,253.6,MW,IRENA,,253.6
+2011,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,253.6
+2012,Electricity Installed Capacity (MW),Solid biofuels,253.6,MW,IRENA,,253.6
+2012,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,253.6
+2013,Electricity Installed Capacity (MW),Solid biofuels,253.6,MW,IRENA,,253.6
+2013,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,253.6
+2013,Electricity Installed Capacity (MW),Solid biofuels,6.0,MW,IRENA,,129.8
+2014,Electricity Installed Capacity (MW),Solid biofuels,305.6,MW,IRENA,4993.333333333334,155.8
+2014,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,155.8
+2014,Electricity Installed Capacity (MW),Solid biofuels,10.0,MW,IRENA,,157.8
+2015,Electricity Installed Capacity (MW),Solid biofuels,314.0,MW,IRENA,3040.0,162.0
+2015,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,162.0
+2015,Electricity Installed Capacity (MW),Solid biofuels,10.0,MW,IRENA,,162.0
+2016,Electricity Installed Capacity (MW),Solid biofuels,314.0,MW,IRENA,3040.0,162.0
+2016,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,162.0
+2016,Electricity Installed Capacity (MW),Solid biofuels,41.0,MW,IRENA,,177.5
+2016,Electricity Installed Capacity (MW),Solid biofuels,10.0,MW,IRENA,-75.60975609756098,25.5
+2017,Electricity Installed Capacity (MW),Solid biofuels,314.0,MW,IRENA,3040.0,121.66666666666667
+2017,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,162.0
+2017,Electricity Installed Capacity (MW),Solid biofuels,41.0,MW,IRENA,,177.5
+2017,Electricity Installed Capacity (MW),Solid biofuels,10.0,MW,IRENA,-75.60975609756098,25.5
+2018,Electricity Installed Capacity (MW),Solid biofuels,372.0,MW,IRENA,3620.0000000000005,141.0
+2018,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,191.0
+2018,Electricity Installed Capacity (MW),Solid biofuels,41.0,MW,IRENA,,206.5
+2018,Electricity Installed Capacity (MW),Solid biofuels,10.0,MW,IRENA,-75.60975609756098,25.5
+2019,Electricity Installed Capacity (MW),Solid biofuels,372.0,MW,IRENA,3620.0000000000005,141.0
+2019,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,191.0
+2019,Electricity Installed Capacity (MW),Solid biofuels,41.0,MW,IRENA,,206.5
+2019,Electricity Installed Capacity (MW),Solid biofuels,10.0,MW,IRENA,-75.60975609756098,25.5
+2020,Electricity Installed Capacity (MW),Solid biofuels,372.0,MW,IRENA,3620.0000000000005,141.0
+2020,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,191.0
+2020,Electricity Installed Capacity (MW),Solid biofuels,41.0,MW,IRENA,,206.5
+2020,Electricity Installed Capacity (MW),Solid biofuels,10.0,MW,IRENA,-75.60975609756098,25.5
+2021,Electricity Installed Capacity (MW),Solid biofuels,372.0,MW,IRENA,3620.0000000000005,141.0
+2021,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,191.0
+2021,Electricity Installed Capacity (MW),Solid biofuels,41.0,MW,IRENA,,206.5
+2021,Electricity Installed Capacity (MW),Solid biofuels,10.0,MW,IRENA,-75.60975609756098,25.5
+2022,Electricity Installed Capacity (MW),Solid biofuels,372.0,MW,IRENA,3620.0000000000005,141.0
+2022,Electricity Installed Capacity (MW),Solid biofuels,,MW,IRENA,,191.0
+2022,Electricity Installed Capacity (MW),Solid biofuels,41.0,MW,IRENA,,206.5
+2022,Electricity Installed Capacity (MW),Solid biofuels,10.0,MW,IRENA,-75.60975609756098,25.5
+2023,Electricity Installed Capacity (MW),Solid biofuels,372.0,MW,IRENA,3620.0000000000005,141.0
+2023,Electricity Installed Capacity (MW),Solid biofuels,41.0,MW,IRENA,-88.97849462365592,141.0
+2023,Electricity Installed Capacity (MW),Solid biofuels,10.0,MW,IRENA,-75.60975609756098,141.0
+2000,Total Domestic Energy Supply,Biofuels and waste,1013239.0, TJ,IEA,,1013239.0
+2001,Total Domestic Energy Supply,Biofuels and waste,1045292.0, TJ,IEA,3.1634194893800966,1029265.5
+2002,Total Domestic Energy Supply,Biofuels and waste,1071832.0, TJ,IEA,2.5390034554937757,1043454.3333333334
+2003,Total Domestic Energy Supply,Biofuels and waste,1095565.0, TJ,IEA,2.21424626247397,1070896.3333333333
+2004,Total Domestic Energy Supply,Biofuels and waste,1120279.0, TJ,IEA,2.255822338245563,1095892.0
+2005,Total Domestic Energy Supply,Biofuels and waste,1144751.0, TJ,IEA,2.184455836447885,1120198.3333333333
+2006,Total Domestic Energy Supply,Biofuels and waste,1169013.0, TJ,IEA,2.1194128679511963,1144681.0
+2007,Total Domestic Energy Supply,Biofuels and waste,1194328.0, TJ,IEA,2.1655020089596952,1169364.0
+2008,Total Domestic Energy Supply,Biofuels and waste,1220662.0, TJ,IEA,2.204921930993831,1194667.6666666667
+2009,Total Domestic Energy Supply,Biofuels and waste,1248158.0, TJ,IEA,2.25254820744809,1221049.3333333333
+2010,Total Domestic Energy Supply,Biofuels and waste,1276574.0, TJ,IEA,2.276634849113654,1248464.6666666667
+2011,Total Domestic Energy Supply,Biofuels and waste,1303796.0, TJ,IEA,2.1324263223283566,1276176.0
+2012,Total Domestic Energy Supply,Biofuels and waste,1327436.0, TJ,IEA,1.8131670905571118,1302602.0
+2013,Total Domestic Energy Supply,Biofuels and waste,1347985.0, TJ,IEA,1.548021900867537,1326405.6666666667
+2014,Total Domestic Energy Supply,Biofuels and waste,1367104.0, TJ,IEA,1.4183392248430065,1347508.3333333333
+2015,Total Domestic Energy Supply,Biofuels and waste,1382831.0, TJ,IEA,1.1503879734094846,1365973.3333333333
+2016,Total Domestic Energy Supply,Biofuels and waste,1357570.0, TJ,IEA,-1.826759741428996,1369168.3333333333
+2017,Total Domestic Energy Supply,Biofuels and waste,1336478.0, TJ,IEA,-1.5536583748904294,1358959.6666666667
+2018,Total Domestic Energy Supply,Biofuels and waste,1316321.0, TJ,IEA,-1.5082178681579494,1336789.6666666667
+2019,Total Domestic Energy Supply,Biofuels and waste,1281587.0, TJ,IEA,-2.6387180634510883,1311462.0
+2020,Total Domestic Energy Supply,Biofuels and waste,1270529.0, TJ,IEA,-0.8628364675983762,1289479.0
+2021,Total Domestic Energy Supply,Biofuels and waste,1262148.0, TJ,IEA,-0.6596464937045907,1271421.3333333333
+2022,Total Domestic Energy Supply,Biofuels and waste,1286316.0, TJ,IEA,1.9148309073103946,1272997.6666666667
+2023,Total Domestic Energy Supply,Biofuels and waste,1311392.0, TJ,IEA,1.9494432161304067,1286618.6666666667
+2000,Total Domestic Energy Supply,Coal and coal products,51785.0, TJ,IEA,,51785.0
+2001,Total Domestic Energy Supply,Coal and coal products,55703.0, TJ,IEA,7.5658974606546305,53744.0
+2002,Total Domestic Energy Supply,Coal and coal products,55063.0, TJ,IEA,-1.1489506848823223,54183.666666666664
+2003,Total Domestic Energy Supply,Coal and coal products,55307.0, TJ,IEA,0.4431287797613643,55357.666666666664
+2004,Total Domestic Energy Supply,Coal and coal products,72461.0, TJ,IEA,31.015965429330826,60943.666666666664
+2005,Total Domestic Energy Supply,Coal and coal products,77734.0, TJ,IEA,7.277017982086916,68500.66666666667
+2006,Total Domestic Energy Supply,Coal and coal products,61614.0, TJ,IEA,-20.737386471814133,70603.0
+2007,Total Domestic Energy Supply,Coal and coal products,70254.0, TJ,IEA,14.022787028921998,69867.33333333333
+2008,Total Domestic Energy Supply,Coal and coal products,64519.0, TJ,IEA,-8.163236257010277,65462.333333333336
+2009,Total Domestic Energy Supply,Coal and coal products,57185.0, TJ,IEA,-11.367194159859887,63986.0
+2010,Total Domestic Energy Supply,Coal and coal products,57305.0, TJ,IEA,0.20984523913613712,59669.666666666664
+2011,Total Domestic Energy Supply,Coal and coal products,57292.0, TJ,IEA,-0.02268562952621935,57260.666666666664
+2012,Total Domestic Energy Supply,Coal and coal products,51795.0, TJ,IEA,-9.59470781260909,55464.0
+2013,Total Domestic Energy Supply,Coal and coal products,56632.0, TJ,IEA,9.338739260546385,55239.666666666664
+2014,Total Domestic Energy Supply,Coal and coal products,62050.0, TJ,IEA,9.567029241418279,56825.666666666664
+2015,Total Domestic Energy Supply,Coal and coal products,72695.0, TJ,IEA,17.155519742143433,63792.333333333336
+2016,Total Domestic Energy Supply,Coal and coal products,70956.0, TJ,IEA,-2.3921865327739185,68567.0
+2017,Total Domestic Energy Supply,Coal and coal products,71773.0, TJ,IEA,1.1514177800326963,71808.0
+2018,Total Domestic Energy Supply,Coal and coal products,99568.0, TJ,IEA,38.72626196480571,80765.66666666667
+2019,Total Domestic Energy Supply,Coal and coal products,133637.0, TJ,IEA,34.21681664791901,101659.33333333333
+2020,Total Domestic Energy Supply,Coal and coal products,139382.0, TJ,IEA,4.298959120602827,124195.66666666667
+2021,Total Domestic Energy Supply,Coal and coal products,146105.0, TJ,IEA,4.823434876813361,139708.0
+2022,Total Domestic Energy Supply,Coal and coal products,207122.0, TJ,IEA,41.76243112829815,164203.0
+2023,Total Domestic Energy Supply,Coal and coal products,233101.0, TJ,IEA,12.542849142051546,195442.66666666666
+2000,Total Domestic Energy Supply,Hydropower,61898.0, TJ,IEA,,61898.0
+2001,Total Domestic Energy Supply,Hydropower,68187.0, TJ,IEA,10.160263659568969,65042.5
+2002,Total Domestic Energy Supply,Hydropower,80463.0, TJ,IEA,18.00343173918782,70182.66666666667
+2003,Total Domestic Energy Supply,Hydropower,96998.0, TJ,IEA,20.549817928737433,81882.66666666667
+2004,Total Domestic Energy Supply,Hydropower,92415.0, TJ,IEA,-4.724839687416235,89958.66666666667
+2005,Total Domestic Energy Supply,Hydropower,111103.0, TJ,IEA,20.221825461234648,100172.0
+2006,Total Domestic Energy Supply,Hydropower,115030.0, TJ,IEA,3.53455802273566,106182.66666666667
+2007,Total Domestic Energy Supply,Hydropower,103345.0, TJ,IEA,-10.15821959488829,109826.0
+2008,Total Domestic Energy Supply,Hydropower,100022.0, TJ,IEA,-3.215443417678649,106132.33333333333
+2009,Total Domestic Energy Supply,Hydropower,101134.0, TJ,IEA,1.111755413808962,101500.33333333333
+2010,Total Domestic Energy Supply,Hydropower,114519.0, TJ,IEA,13.234916051970652,105225.0
+2011,Total Domestic Energy Supply,Hydropower,102661.0, TJ,IEA,-10.354613644897354,106104.66666666667
+2012,Total Domestic Energy Supply,Hydropower,107485.0, TJ,IEA,4.698960656919375,108221.66666666667
+2013,Total Domestic Energy Supply,Hydropower,114742.0, TJ,IEA,6.751639763687957,108296.0
+2014,Total Domestic Energy Supply,Hydropower,116906.0, TJ,IEA,1.8859702637220896,113044.33333333333
+2015,Total Domestic Energy Supply,Hydropower,124678.0, TJ,IEA,6.648076232186543,118775.33333333333
+2016,Total Domestic Energy Supply,Hydropower,115858.0, TJ,IEA,-7.074223198960522,119147.33333333333
+2017,Total Domestic Energy Supply,Hydropower,100530.0, TJ,IEA,-13.229988434117626,113688.66666666667
+2018,Total Domestic Energy Supply,Hydropower,98420.0, TJ,IEA,-2.098875957425644,104936.0
+2019,Total Domestic Energy Supply,Hydropower,120906.0, TJ,IEA,22.84698232066653,106618.66666666667
+2020,Total Domestic Energy Supply,Hydropower,120772.0, TJ,IEA,-0.11082990091476022,113366.0
+2021,Total Domestic Energy Supply,Hydropower,117741.0, TJ,IEA,-2.5096876759513798,119806.33333333333
+2022,Total Domestic Energy Supply,Hydropower,131914.0, TJ,IEA,12.03743810567262,123475.66666666667
+2023,Total Domestic Energy Supply,Hydropower,145633.0, TJ,IEA,10.39995754809952,131762.66666666666
+2000,Total Domestic Energy Supply,Natural gas,697910.0, TJ,IEA,,697910.0
+2001,Total Domestic Energy Supply,Natural gas,729363.0, TJ,IEA,4.5067415569342755,713636.5
+2002,Total Domestic Energy Supply,Natural gas,747136.0, TJ,IEA,2.4367838785351053,724803.0
+2003,Total Domestic Energy Supply,Natural gas,927489.0, TJ,IEA,24.139246402261435,801329.3333333334
+2004,Total Domestic Energy Supply,Natural gas,1015874.0, TJ,IEA,9.529493072155033,896833.0
+2005,Total Domestic Energy Supply,Natural gas,1073682.0, TJ,IEA,5.690469487357684,1005681.6666666666
+2006,Total Domestic Energy Supply,Natural gas,1076441.0, TJ,IEA,0.25696621532260017,1055332.3333333333
+2007,Total Domestic Energy Supply,Natural gas,1137024.0, TJ,IEA,5.628083657162817,1095715.6666666667
+2008,Total Domestic Energy Supply,Natural gas,1107764.0, TJ,IEA,-2.5733845547675336,1107076.3333333333
+2009,Total Domestic Energy Supply,Natural gas,1143048.0, TJ,IEA,3.1851549608039256,1129278.6666666667
+2010,Total Domestic Energy Supply,Natural gas,1129839.0, TJ,IEA,-1.1555945157158753,1126883.6666666667
+2011,Total Domestic Energy Supply,Natural gas,1128159.0, TJ,IEA,-0.14869375194164833,1133682.0
+2012,Total Domestic Energy Supply,Natural gas,1136115.0, TJ,IEA,0.7052197429617634,1131371.0
+2013,Total Domestic Energy Supply,Natural gas,1110628.0, TJ,IEA,-2.2433468442895306,1124967.3333333333
+2014,Total Domestic Energy Supply,Natural gas,1101326.0, TJ,IEA,-0.8375441642025953,1116023.0
+2015,Total Domestic Energy Supply,Natural gas,1015632.0, TJ,IEA,-7.780984013816072,1075862.0
+2016,Total Domestic Energy Supply,Natural gas,941509.0, TJ,IEA,-7.2982143138459605,1019489.0
+2017,Total Domestic Energy Supply,Natural gas,792918.0, TJ,IEA,-15.78221769521056,916686.3333333334
+2018,Total Domestic Energy Supply,Natural gas,1021347.0, TJ,IEA,28.808653606047535,918591.3333333334
+2019,Total Domestic Energy Supply,Natural gas,936456.0, TJ,IEA,-8.311670764196693,916907.0
+2020,Total Domestic Energy Supply,Natural gas,994313.0, TJ,IEA,6.178293480953723,984038.6666666666
+2021,Total Domestic Energy Supply,Natural gas,866179.0, TJ,IEA,-12.886686586618096,932316.0
+2022,Total Domestic Energy Supply,Natural gas,836540.0, TJ,IEA,-3.421810041573393,899010.6666666666
+2023,Total Domestic Energy Supply,Natural gas,817900.0, TJ,IEA,-2.2282257871709663,840206.3333333334
+2000,Total Domestic Energy Supply,Nuclear,21785.0, TJ,IEA,,21785.0
+2001,Total Domestic Energy Supply,Nuclear,24992.0, TJ,IEA,14.721138397980264,23388.5
+2002,Total Domestic Energy Supply,Nuclear,18981.0, TJ,IEA,-24.051696542893726,21919.333333333332
+2003,Total Domestic Energy Supply,Nuclear,19199.0, TJ,IEA,1.1485169379906224,21057.333333333332
+2004,Total Domestic Energy Supply,Nuclear,30490.0, TJ,IEA,58.81035470597426,22890.0
+2005,Total Domestic Energy Supply,Nuclear,27098.0, TJ,IEA,-11.124959002951787,25595.666666666668
+2006,Total Domestic Energy Supply,Nuclear,24960.0, TJ,IEA,-7.889881172042217,27516.0
+2007,Total Domestic Energy Supply,Nuclear,33567.0, TJ,IEA,34.48317307692308,28541.666666666668
+2008,Total Domestic Energy Supply,Nuclear,17650.0, TJ,IEA,-47.41859564453183,25392.333333333332
+2009,Total Domestic Energy Supply,Nuclear,31570.0, TJ,IEA,78.86685552407931,27595.666666666668
+2010,Total Domestic Energy Supply,Nuclear,37309.0, TJ,IEA,18.178650617675007,28843.0
+2011,Total Domestic Energy Supply,Nuclear,57436.0, TJ,IEA,53.94676887614248,42105.0
+2012,Total Domestic Energy Supply,Nuclear,49669.0, TJ,IEA,-13.522877637718503,48138.0
+2013,Total Domestic Energy Supply,Nuclear,55527.0, TJ,IEA,11.794076788338803,54210.666666666664
+2014,Total Domestic Energy Supply,Nuclear,63316.0, TJ,IEA,14.027410088785636,56170.666666666664
+2015,Total Domestic Energy Supply,Nuclear,50236.0, TJ,IEA,-20.65828542548487,56359.666666666664
+2016,Total Domestic Energy Supply,Nuclear,76352.0, TJ,IEA,51.986623138784935,63301.333333333336
+2017,Total Domestic Energy Supply,Nuclear,107781.0, TJ,IEA,41.16329631181894,78123.0
+2018,Total Domestic Energy Supply,Nuclear,108098.0, TJ,IEA,0.2941149182137853,97410.33333333333
+2019,Total Domestic Energy Supply,Nuclear,117981.0, TJ,IEA,9.142629835889656,111286.66666666667
+2020,Total Domestic Energy Supply,Nuclear,101956.0, TJ,IEA,-13.582695518769972,109345.0
+2021,Total Domestic Energy Supply,Nuclear,209170.0, TJ,IEA,105.15712660363295,143035.66666666666
+2022,Total Domestic Energy Supply,Nuclear,283189.0, TJ,IEA,35.38700578476837,198105.0
+2023,Total Domestic Energy Supply,Nuclear,285483.0, TJ,IEA,0.8100597127713294,259280.66666666666
+2000,Total Domestic Energy Supply,Primary oil,125214.0, TJ,IEA,,125214.0
+2001,Total Domestic Energy Supply,Primary oil,141917.0, TJ,IEA,13.339562668711165,133565.5
+2002,Total Domestic Energy Supply,Primary oil,138706.0, TJ,IEA,-2.2625901054841915,135279.0
+2003,Total Domestic Energy Supply,Primary oil,134235.0, TJ,IEA,-3.223364526408375,138286.0
+2004,Total Domestic Energy Supply,Primary oil,144237.0, TJ,IEA,7.451111856073305,139059.33333333334
+2005,Total Domestic Energy Supply,Primary oil,149679.0, TJ,IEA,3.7729570082572432,142717.0
+2006,Total Domestic Energy Supply,Primary oil,154640.0, TJ,IEA,3.3144262054129165,149518.66666666666
+2007,Total Domestic Energy Supply,Primary oil,159881.0, TJ,IEA,3.3891619244697364,154733.33333333334
+2008,Total Domestic Energy Supply,Primary oil,148792.0, TJ,IEA,-6.935783488969921,154437.66666666666
+2009,Total Domestic Energy Supply,Primary oil,146479.0, TJ,IEA,-1.554519060164525,151717.33333333334
+2010,Total Domestic Energy Supply,Primary oil,146440.0, TJ,IEA,-0.026624976959154553,147237.0
+2011,Total Domestic Energy Supply,Primary oil,147928.0, TJ,IEA,1.016115815350997,146949.0
+2012,Total Domestic Energy Supply,Primary oil,166312.0, TJ,IEA,12.427667513925694,153560.0
+2013,Total Domestic Energy Supply,Primary oil,189414.0, TJ,IEA,13.890759536293231,167884.66666666666
+2014,Total Domestic Energy Supply,Primary oil,206556.0, TJ,IEA,9.050017422154646,187427.33333333334
+2015,Total Domestic Energy Supply,Primary oil,199131.0, TJ,IEA,-3.594666821588335,198367.0
+2016,Total Domestic Energy Supply,Primary oil,202906.0, TJ,IEA,1.8957369771657855,202864.33333333334
+2017,Total Domestic Energy Supply,Primary oil,207675.0, TJ,IEA,2.350349422885474,203237.33333333334
+2018,Total Domestic Energy Supply,Primary oil,209082.0, TJ,IEA,0.6775009028530155,206554.33333333334
+2019,Total Domestic Energy Supply,Primary oil,183924.0, TJ,IEA,-12.032599649898126,200227.0
+2020,Total Domestic Energy Supply,Primary oil,179202.0, TJ,IEA,-2.567364781105239,190736.0
+2021,Total Domestic Energy Supply,Primary oil,175656.0, TJ,IEA,-1.9787725583419828,179594.0
+2022,Total Domestic Energy Supply,Primary oil,167143.0, TJ,IEA,-4.846404335747142,174000.33333333334
+2023,Total Domestic Energy Supply,Primary oil,162199.0, TJ,IEA,-2.9579461897895816,168332.66666666666
+2000,Total Domestic Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2001,Total Domestic Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2002,Total Domestic Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2003,Total Domestic Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2004,Total Domestic Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2005,Total Domestic Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2006,Total Domestic Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2007,Total Domestic Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2008,Total Domestic Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2009,Total Domestic Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2010,Total Domestic Energy Supply,"Solar, wind and other renewables",0.0, TJ,IEA,,0.0
+2011,Total Domestic Energy Supply,"Solar, wind and other renewables",0.0, TJ,IEA,,0.0
+2012,Total Domestic Energy Supply,"Solar, wind and other renewables",0.0, TJ,IEA,,0.0
+2013,Total Domestic Energy Supply,"Solar, wind and other renewables",1430.0, TJ,IEA,,476.6666666666667
+2014,Total Domestic Energy Supply,"Solar, wind and other renewables",2888.0, TJ,IEA,101.95804195804197,1439.3333333333333
+2015,Total Domestic Energy Supply,"Solar, wind and other renewables",3577.0, TJ,IEA,23.857340720221607,2631.6666666666665
+2016,Total Domestic Energy Supply,"Solar, wind and other renewables",7044.0, TJ,IEA,96.92479731618675,4503.0
+2017,Total Domestic Energy Supply,"Solar, wind and other renewables",10399.0, TJ,IEA,47.629187961385576,7006.666666666667
+2018,Total Domestic Energy Supply,"Solar, wind and other renewables",13721.0, TJ,IEA,31.945379363400328,10388.0
+2019,Total Domestic Energy Supply,"Solar, wind and other renewables",13002.0, TJ,IEA,-5.240142846731287,12374.0
+2020,Total Domestic Energy Supply,"Solar, wind and other renewables",13100.0, TJ,IEA,0.7537301953545609,13274.333333333334
+2021,Total Domestic Energy Supply,"Solar, wind and other renewables",19424.0, TJ,IEA,48.274809160305345,15175.333333333334
+2022,Total Domestic Energy Supply,"Solar, wind and other renewables",18077.0, TJ,IEA,-6.934719934102142,16867.0
+2023,Total Domestic Energy Supply,"Solar, wind and other renewables",18589.0, TJ,IEA,2.832328373070753,18696.666666666668
+2000,Total Energy Consumption,Agriculture and forestry,28966.0, TJ,IEA,,28966.0
+2001,Total Energy Consumption,Agriculture and forestry,30146.0, TJ,IEA,4.073741628115722,29556.0
+2002,Total Energy Consumption,Agriculture and forestry,30253.0, TJ,IEA,0.3549392954289126,29788.333333333332
+2003,Total Energy Consumption,Agriculture and forestry,32032.0, TJ,IEA,5.880408554523518,30810.333333333332
+2004,Total Energy Consumption,Agriculture and forestry,31373.0, TJ,IEA,-2.057317682317682,31219.333333333332
+2005,Total Energy Consumption,Agriculture and forestry,32924.0, TJ,IEA,4.94374143371689,32109.666666666668
+2006,Total Energy Consumption,Agriculture and forestry,33710.0, TJ,IEA,2.3873162434698094,32669.0
+2007,Total Energy Consumption,Agriculture and forestry,35304.0, TJ,IEA,4.728567190744586,33979.333333333336
+2008,Total Energy Consumption,Agriculture and forestry,34748.0, TJ,IEA,-1.574892363471561,34587.333333333336
+2009,Total Energy Consumption,Agriculture and forestry,37437.0, TJ,IEA,7.738574882007597,35829.666666666664
+2010,Total Energy Consumption,Agriculture and forestry,34103.0, TJ,IEA,-8.905628121911478,35429.333333333336
+2011,Total Energy Consumption,Agriculture and forestry,31786.0, TJ,IEA,-6.7941236841333605,34442.0
+2012,Total Energy Consumption,Agriculture and forestry,29119.0, TJ,IEA,-8.390486377650538,31669.333333333332
+2013,Total Energy Consumption,Agriculture and forestry,31916.0, TJ,IEA,9.605412273773139,30940.333333333332
+2014,Total Energy Consumption,Agriculture and forestry,30550.0, TJ,IEA,-4.279984960521369,30528.333333333332
+2015,Total Energy Consumption,Agriculture and forestry,31354.0, TJ,IEA,2.6317512274959083,31273.333333333332
+2016,Total Energy Consumption,Agriculture and forestry,33768.0, TJ,IEA,7.699177138483128,31890.666666666668
+2017,Total Energy Consumption,Agriculture and forestry,37101.0, TJ,IEA,9.870291400142147,34074.333333333336
+2018,Total Energy Consumption,Agriculture and forestry,35974.0, TJ,IEA,-3.0376539715910624,35614.333333333336
+2019,Total Energy Consumption,Agriculture and forestry,35653.0, TJ,IEA,-0.8923111135820314,36242.666666666664
+2020,Total Energy Consumption,Agriculture and forestry,37391.0, TJ,IEA,4.874765096906291,36339.333333333336
+2021,Total Energy Consumption,Agriculture and forestry,37410.0, TJ,IEA,0.05081436709368565,36818.0
+2022,Total Energy Consumption,Agriculture and forestry,34760.0, TJ,IEA,-7.083667468591286,36520.333333333336
+2023,Total Energy Consumption,Agriculture and forestry,35534.0, TJ,IEA,2.2266973532796315,35901.333333333336
+2000,Total Energy Consumption,Commercial and Public Services,54144.0, TJ,IEA,,54144.0
+2001,Total Energy Consumption,Commercial and Public Services,56574.0, TJ,IEA,4.488031914893617,55359.0
+2002,Total Energy Consumption,Commercial and Public Services,52743.0, TJ,IEA,-6.771661894156327,54487.0
+2003,Total Energy Consumption,Commercial and Public Services,57924.0, TJ,IEA,9.823104487799329,55747.0
+2004,Total Energy Consumption,Commercial and Public Services,64219.0, TJ,IEA,10.867688695532078,58295.333333333336
+2005,Total Energy Consumption,Commercial and Public Services,74837.0, TJ,IEA,16.534047556019246,65660.0
+2006,Total Energy Consumption,Commercial and Public Services,79544.0, TJ,IEA,6.289669548485374,72866.66666666667
+2007,Total Energy Consumption,Commercial and Public Services,84166.0, TJ,IEA,5.810620537061249,79515.66666666667
+2008,Total Energy Consumption,Commercial and Public Services,85142.0, TJ,IEA,1.159613145450657,82950.66666666667
+2009,Total Energy Consumption,Commercial and Public Services,87150.0, TJ,IEA,2.35841300415776,85486.0
+2010,Total Energy Consumption,Commercial and Public Services,89496.0, TJ,IEA,2.6919104991394147,87262.66666666667
+2011,Total Energy Consumption,Commercial and Public Services,89325.0, TJ,IEA,-0.1910699919549477,88657.0
+2012,Total Energy Consumption,Commercial and Public Services,91422.0, TJ,IEA,2.347607052896725,90081.0
+2013,Total Energy Consumption,Commercial and Public Services,94027.0, TJ,IEA,2.849423552317823,91591.33333333333
+2014,Total Energy Consumption,Commercial and Public Services,95273.0, TJ,IEA,1.3251512863326491,93574.0
+2015,Total Energy Consumption,Commercial and Public Services,104086.0, TJ,IEA,9.250259779790706,97795.33333333333
+2016,Total Energy Consumption,Commercial and Public Services,107653.0, TJ,IEA,3.4269738485483163,102337.33333333333
+2017,Total Energy Consumption,Commercial and Public Services,116858.0, TJ,IEA,8.55062097665648,109532.33333333333
+2018,Total Energy Consumption,Commercial and Public Services,118151.0, TJ,IEA,1.1064711016789608,114220.66666666667
+2019,Total Energy Consumption,Commercial and Public Services,115748.0, TJ,IEA,-2.0338380546927235,116919.0
+2020,Total Energy Consumption,Commercial and Public Services,117840.0, TJ,IEA,1.8073746414624874,117246.33333333333
+2021,Total Energy Consumption,Commercial and Public Services,103290.0, TJ,IEA,-12.34725050916497,112292.66666666667
+2022,Total Energy Consumption,Commercial and Public Services,120763.0, TJ,IEA,16.916448833381743,113964.33333333333
+2023,Total Energy Consumption,Commercial and Public Services,117765.0, TJ,IEA,-2.4825484626913874,113939.33333333333
+2000,Total Energy Consumption,Industry,468001.0, TJ,IEA,,468001.0
+2001,Total Energy Consumption,Industry,478500.0, TJ,IEA,2.243371274847703,473250.5
+2002,Total Energy Consumption,Industry,516926.0, TJ,IEA,8.030512016718912,487809.0
+2003,Total Energy Consumption,Industry,591680.0, TJ,IEA,14.46125751074622,529035.3333333334
+2004,Total Energy Consumption,Industry,660045.0, TJ,IEA,11.55438750676041,589550.3333333334
+2005,Total Energy Consumption,Industry,718618.0, TJ,IEA,8.874091917975289,656781.0
+2006,Total Energy Consumption,Industry,772620.0, TJ,IEA,7.5147018304579065,717094.3333333334
+2007,Total Energy Consumption,Industry,817947.0, TJ,IEA,5.866661489477363,769728.3333333334
+2008,Total Energy Consumption,Industry,748129.0, TJ,IEA,-8.535760874482087,779565.3333333334
+2009,Total Energy Consumption,Industry,771524.0, TJ,IEA,3.127134491511491,779200.0
+2010,Total Energy Consumption,Industry,751109.0, TJ,IEA,-2.646061561273531,756920.6666666666
+2011,Total Energy Consumption,Industry,753616.0, TJ,IEA,0.33377312746884935,758749.6666666666
+2012,Total Energy Consumption,Industry,726009.0, TJ,IEA,-3.663271480435659,743578.0
+2013,Total Energy Consumption,Industry,708849.0, TJ,IEA,-2.363607062722363,729491.3333333334
+2014,Total Energy Consumption,Industry,756021.0, TJ,IEA,6.65473182581904,730293.0
+2015,Total Energy Consumption,Industry,805387.0, TJ,IEA,6.5297127989830965,756752.3333333334
+2016,Total Energy Consumption,Industry,872160.0, TJ,IEA,8.29079684673331,811189.3333333334
+2017,Total Energy Consumption,Industry,945569.0, TJ,IEA,8.41691891396074,874372.0
+2018,Total Energy Consumption,Industry,934332.0, TJ,IEA,-1.1883849830102298,917353.6666666666
+2019,Total Energy Consumption,Industry,833058.0, TJ,IEA,-10.839187783357522,904319.6666666666
+2020,Total Energy Consumption,Industry,1037835.0, TJ,IEA,24.5813616818997,935075.0
+2021,Total Energy Consumption,Industry,920234.0, TJ,IEA,-11.331377338401577,930375.6666666666
+2022,Total Energy Consumption,Industry,765574.0, TJ,IEA,-16.806594844354805,907881.0
+2023,Total Energy Consumption,Industry,767963.0, TJ,IEA,0.3120534396413671,817923.6666666666
+2000,Total Energy Consumption,Non-energy use,118351.0, TJ,IEA,,118351.0
+2001,Total Energy Consumption,Non-energy use,118681.0, TJ,IEA,0.2788316110552509,118516.0
+2002,Total Energy Consumption,Non-energy use,124409.0, TJ,IEA,4.826383330103386,120480.33333333333
+2003,Total Energy Consumption,Non-energy use,129618.0, TJ,IEA,4.186996117644222,124236.0
+2004,Total Energy Consumption,Non-energy use,135018.0, TJ,IEA,4.166088043327316,129681.66666666667
+2005,Total Energy Consumption,Non-energy use,145716.0, TJ,IEA,7.923387992712083,136784.0
+2006,Total Energy Consumption,Non-energy use,142638.0, TJ,IEA,-2.112328090257762,141124.0
+2007,Total Energy Consumption,Non-energy use,143000.0, TJ,IEA,0.25378931280584416,143784.66666666666
+2008,Total Energy Consumption,Non-energy use,143151.0, TJ,IEA,0.10559440559440558,142929.66666666666
+2009,Total Energy Consumption,Non-energy use,153164.0, TJ,IEA,6.994711877667638,146438.33333333334
+2010,Total Energy Consumption,Non-energy use,146607.0, TJ,IEA,-4.2810320963150605,147640.66666666666
+2011,Total Energy Consumption,Non-energy use,138173.0, TJ,IEA,-5.752794887010852,145981.33333333334
+2012,Total Energy Consumption,Non-energy use,121527.0, TJ,IEA,-12.047216171031968,135435.66666666666
+2013,Total Energy Consumption,Non-energy use,134097.0, TJ,IEA,10.34338048334938,131265.66666666666
+2014,Total Energy Consumption,Non-energy use,138598.0, TJ,IEA,3.356525500197618,131407.33333333334
+2015,Total Energy Consumption,Non-energy use,164499.0, TJ,IEA,18.68785985367754,145731.33333333334
+2016,Total Energy Consumption,Non-energy use,166628.0, TJ,IEA,1.2942327916887033,156575.0
+2017,Total Energy Consumption,Non-energy use,170657.0, TJ,IEA,2.417960966944331,167261.33333333334
+2018,Total Energy Consumption,Non-energy use,174539.0, TJ,IEA,2.274738217594356,170608.0
+2019,Total Energy Consumption,Non-energy use,180094.0, TJ,IEA,3.182669775809418,175096.66666666666
+2020,Total Energy Consumption,Non-energy use,189935.0, TJ,IEA,5.46436860750497,181522.66666666666
+2021,Total Energy Consumption,Non-energy use,191003.0, TJ,IEA,0.5622976281359412,187010.66666666666
+2022,Total Energy Consumption,Non-energy use,178983.0, TJ,IEA,-6.2930948728553995,186640.33333333334
+2023,Total Energy Consumption,Non-energy use,176670.0, TJ,IEA,-1.2923015034947452,182218.66666666666
+2000,Total Energy Consumption,Other non-specified,, TJ,IEA,,
+2001,Total Energy Consumption,Other non-specified,136.0, TJ,IEA,,136.0
+2002,Total Energy Consumption,Other non-specified,499.0, TJ,IEA,266.9117647058823,317.5
+2003,Total Energy Consumption,Other non-specified,635.0, TJ,IEA,27.25450901803607,423.3333333333333
+2004,Total Energy Consumption,Other non-specified,, TJ,IEA,,567.0
+2005,Total Energy Consumption,Other non-specified,1317.0, TJ,IEA,,976.0
+2006,Total Energy Consumption,Other non-specified,545.0, TJ,IEA,-58.618071374335614,931.0
+2007,Total Energy Consumption,Other non-specified,408.0, TJ,IEA,-25.137614678899084,756.6666666666666
+2008,Total Energy Consumption,Other non-specified,726.0, TJ,IEA,77.94117647058823,559.6666666666666
+2009,Total Energy Consumption,Other non-specified,1090.0, TJ,IEA,50.13774104683195,741.3333333333334
+2010,Total Energy Consumption,Other non-specified,1135.0, TJ,IEA,4.128440366972478,983.6666666666666
+2011,Total Energy Consumption,Other non-specified,1680.0, TJ,IEA,48.01762114537445,1301.6666666666667
+2012,Total Energy Consumption,Other non-specified,3316.0, TJ,IEA,97.38095238095238,2043.6666666666667
+2013,Total Energy Consumption,Other non-specified,3407.0, TJ,IEA,2.744270205066345,2801.0
+2014,Total Energy Consumption,Other non-specified,5542.0, TJ,IEA,62.66510126210743,4088.3333333333335
+2015,Total Energy Consumption,Other non-specified,12492.0, TJ,IEA,125.40599061710573,7147.0
+2016,Total Energy Consumption,Other non-specified,14718.0, TJ,IEA,17.81940441882805,10917.333333333334
+2017,Total Energy Consumption,Other non-specified,12218.0, TJ,IEA,-16.986003533088734,13142.666666666666
+2018,Total Energy Consumption,Other non-specified,9111.0, TJ,IEA,-25.429693894254378,12015.666666666666
+2019,Total Energy Consumption,Other non-specified,8177.0, TJ,IEA,-10.251344528591812,9835.333333333334
+2020,Total Energy Consumption,Other non-specified,14495.0, TJ,IEA,77.26550079491255,10594.333333333334
+2021,Total Energy Consumption,Other non-specified,12657.0, TJ,IEA,-12.680234563642637,11776.333333333334
+2022,Total Energy Consumption,Other non-specified,22202.0, TJ,IEA,75.41281504305918,16451.333333333332
+2023,Total Energy Consumption,Other non-specified,18957.0, TJ,IEA,-14.615800378344293,17938.666666666668
+2000,Total Energy Consumption,Residential,1126334.0, TJ,IEA,,1126334.0
+2001,Total Energy Consumption,Residential,1155015.0, TJ,IEA,2.5464027544227554,1140674.5
+2002,Total Energy Consumption,Residential,1186055.0, TJ,IEA,2.687410986004511,1155801.3333333333
+2003,Total Energy Consumption,Residential,1214849.0, TJ,IEA,2.4277120369628724,1185306.3333333333
+2004,Total Energy Consumption,Residential,1258228.0, TJ,IEA,3.570731835808401,1219710.6666666667
+2005,Total Energy Consumption,Residential,1290349.0, TJ,IEA,2.5528759493509923,1254475.3333333333
+2006,Total Energy Consumption,Residential,1334304.0, TJ,IEA,3.4064427530846304,1294293.6666666667
+2007,Total Energy Consumption,Residential,1373958.0, TJ,IEA,2.9718864666522773,1332870.3333333333
+2008,Total Energy Consumption,Residential,1398049.0, TJ,IEA,1.753401486799451,1368770.3333333333
+2009,Total Energy Consumption,Residential,1433339.0, TJ,IEA,2.5242319832852784,1401782.0
+2010,Total Energy Consumption,Residential,1473066.0, TJ,IEA,2.7716402051433753,1434818.0
+2011,Total Energy Consumption,Residential,1521856.0, TJ,IEA,3.3121394424961275,1476087.0
+2012,Total Energy Consumption,Residential,1572826.0, TJ,IEA,3.3491999243029564,1522582.6666666667
+2013,Total Energy Consumption,Residential,1582629.0, TJ,IEA,0.6232730130351355,1559103.6666666667
+2014,Total Energy Consumption,Residential,1616473.0, TJ,IEA,2.1384670696669907,1590642.6666666667
+2015,Total Energy Consumption,Residential,1630358.0, TJ,IEA,0.8589688785398828,1609820.0
+2016,Total Energy Consumption,Residential,1636251.0, TJ,IEA,0.36145435542377813,1627694.0
+2017,Total Energy Consumption,Residential,1623782.0, TJ,IEA,-0.7620468986726364,1630130.3333333333
+2018,Total Energy Consumption,Residential,1625644.0, TJ,IEA,0.11467056538377689,1628559.0
+2019,Total Energy Consumption,Residential,1615865.0, TJ,IEA,-0.6015462179911468,1621763.6666666667
+2020,Total Energy Consumption,Residential,1598191.0, TJ,IEA,-1.0937794927175228,1613233.3333333333
+2021,Total Energy Consumption,Residential,1573135.0, TJ,IEA,-1.5677725628538766,1595730.3333333333
+2022,Total Energy Consumption,Residential,1586071.0, TJ,IEA,0.8223070492996469,1585799.0
+2023,Total Energy Consumption,Residential,1615250.0, TJ,IEA,1.8397032667516144,1591485.3333333333
+2000,Total Energy Consumption,Transport,349903.0, TJ,IEA,,349903.0
+2001,Total Energy Consumption,Transport,349668.0, TJ,IEA,-0.06716147046467164,349785.5
+2002,Total Energy Consumption,Transport,355244.0, TJ,IEA,1.5946555017902697,351605.0
+2003,Total Energy Consumption,Transport,373665.0, TJ,IEA,5.1854500005629935,359525.6666666667
+2004,Total Energy Consumption,Transport,404525.0, TJ,IEA,8.258734427896645,377811.3333333333
+2005,Total Energy Consumption,Transport,379629.0, TJ,IEA,-6.154378592176009,385939.6666666667
+2006,Total Energy Consumption,Transport,388750.0, TJ,IEA,2.4026088628634796,390968.0
+2007,Total Energy Consumption,Transport,468898.0, TJ,IEA,20.61684887459807,412425.6666666667
+2008,Total Energy Consumption,Transport,458854.0, TJ,IEA,-2.1420436854070606,438834.0
+2009,Total Energy Consumption,Transport,469473.0, TJ,IEA,2.3142437463768433,465741.6666666667
+2010,Total Energy Consumption,Transport,482712.0, TJ,IEA,2.8199704775354495,470346.3333333333
+2011,Total Energy Consumption,Transport,506934.0, TJ,IEA,5.017898871376722,486373.0
+2012,Total Energy Consumption,Transport,515189.0, TJ,IEA,1.6284171114977493,501611.6666666667
+2013,Total Energy Consumption,Transport,525172.0, TJ,IEA,1.9377354718365492,515765.0
+2014,Total Energy Consumption,Transport,556181.0, TJ,IEA,5.9045417501313855,532180.6666666666
+2015,Total Energy Consumption,Transport,626421.0, TJ,IEA,12.628982291735962,569258.0
+2016,Total Energy Consumption,Transport,698109.0, TJ,IEA,11.444060783402856,626903.6666666666
+2017,Total Energy Consumption,Transport,764578.0, TJ,IEA,9.521292520222486,696369.3333333334
+2018,Total Energy Consumption,Transport,703035.0, TJ,IEA,-8.049276855991149,721907.3333333334
+2019,Total Energy Consumption,Transport,651955.0, TJ,IEA,-7.265641113173597,706522.6666666666
+2020,Total Energy Consumption,Transport,747958.0, TJ,IEA,14.725402826882222,700982.6666666666
+2021,Total Energy Consumption,Transport,788895.0, TJ,IEA,5.4731682795023255,729602.6666666666
+2022,Total Energy Consumption,Transport,617096.0, TJ,IEA,-21.777169331786865,717983.0
+2023,Total Energy Consumption,Transport,615925.0, TJ,IEA,-0.18975977805722286,673972.0
+2000,Total Energy Supply,Biofuels and waste,1013239.0, TJ,IEA,,1013239.0
+2001,Total Energy Supply,Biofuels and waste,1045292.0, TJ,IEA,3.1634194893800966,1029265.5
+2002,Total Energy Supply,Biofuels and waste,1071832.0, TJ,IEA,2.5390034554937757,1043454.3333333334
+2003,Total Energy Supply,Biofuels and waste,1095565.0, TJ,IEA,2.21424626247397,1070896.3333333333
+2004,Total Energy Supply,Biofuels and waste,1120279.0, TJ,IEA,2.255822338245563,1095892.0
+2005,Total Energy Supply,Biofuels and waste,1144751.0, TJ,IEA,2.184455836447885,1120198.3333333333
+2006,Total Energy Supply,Biofuels and waste,1169013.0, TJ,IEA,2.1194128679511963,1144681.0
+2007,Total Energy Supply,Biofuels and waste,1194328.0, TJ,IEA,2.1655020089596952,1169364.0
+2008,Total Energy Supply,Biofuels and waste,1220662.0, TJ,IEA,2.204921930993831,1194667.6666666667
+2009,Total Energy Supply,Biofuels and waste,1248158.0, TJ,IEA,2.25254820744809,1221049.3333333333
+2010,Total Energy Supply,Biofuels and waste,1276574.0, TJ,IEA,2.276634849113654,1248464.6666666667
+2011,Total Energy Supply,Biofuels and waste,1303796.0, TJ,IEA,2.1324263223283566,1276176.0
+2012,Total Energy Supply,Biofuels and waste,1327436.0, TJ,IEA,1.8131670905571118,1302602.0
+2013,Total Energy Supply,Biofuels and waste,1347985.0, TJ,IEA,1.548021900867537,1326405.6666666667
+2014,Total Energy Supply,Biofuels and waste,1367104.0, TJ,IEA,1.4183392248430065,1347508.3333333333
+2015,Total Energy Supply,Biofuels and waste,1382831.0, TJ,IEA,1.1503879734094846,1365973.3333333333
+2016,Total Energy Supply,Biofuels and waste,1357570.0, TJ,IEA,-1.826759741428996,1369168.3333333333
+2017,Total Energy Supply,Biofuels and waste,1336478.0, TJ,IEA,-1.5536583748904294,1358959.6666666667
+2018,Total Energy Supply,Biofuels and waste,1316321.0, TJ,IEA,-1.5082178681579494,1336789.6666666667
+2019,Total Energy Supply,Biofuels and waste,1281587.0, TJ,IEA,-2.6387180634510883,1311462.0
+2020,Total Energy Supply,Biofuels and waste,1270529.0, TJ,IEA,-0.8628364675983762,1289479.0
+2021,Total Energy Supply,Biofuels and waste,1262148.0, TJ,IEA,-0.6596464937045907,1271421.3333333333
+2022,Total Energy Supply,Biofuels and waste,1286316.0, TJ,IEA,1.9148309073103946,1272997.6666666667
+2023,Total Energy Supply,Biofuels and waste,1311392.0, TJ,IEA,1.9494432161304067,1286618.6666666667
+2000,Total Energy Supply,Coal and coal products,77953.0, TJ,IEA,,77953.0
+2001,Total Energy Supply,Coal and coal products,85496.0, TJ,IEA,9.676343437712468,81724.5
+2002,Total Energy Supply,Coal and coal products,98575.0, TJ,IEA,15.297791709553662,87341.33333333333
+2003,Total Energy Supply,Coal and coal products,132331.0, TJ,IEA,34.24397666751205,105467.33333333333
+2004,Total Energy Supply,Coal and coal products,163756.0, TJ,IEA,23.747270102999295,131554.0
+2005,Total Energy Supply,Coal and coal products,156272.0, TJ,IEA,-4.5702142211583086,150786.33333333334
+2006,Total Energy Supply,Coal and coal products,179102.0, TJ,IEA,14.609143032661,166376.66666666666
+2007,Total Energy Supply,Coal and coal products,235718.0, TJ,IEA,31.61103728601579,190364.0
+2008,Total Energy Supply,Coal and coal products,193003.0, TJ,IEA,-18.12122960486683,202607.66666666666
+2009,Total Energy Supply,Coal and coal products,185912.0, TJ,IEA,-3.6740361548784217,204877.66666666666
+2010,Total Energy Supply,Coal and coal products,175223.0, TJ,IEA,-5.74949438443995,184712.66666666666
+2011,Total Energy Supply,Coal and coal products,169420.0, TJ,IEA,-3.31177984625306,176851.66666666666
+2012,Total Energy Supply,Coal and coal products,154331.0, TJ,IEA,-8.90626844528391,166324.66666666666
+2013,Total Energy Supply,Coal and coal products,142846.0, TJ,IEA,-7.441797176199208,155532.33333333334
+2014,Total Energy Supply,Coal and coal products,200347.0, TJ,IEA,40.25383979950436,165841.33333333334
+2015,Total Energy Supply,Coal and coal products,207741.0, TJ,IEA,3.690596814526796,183644.66666666666
+2016,Total Energy Supply,Coal and coal products,265052.0, TJ,IEA,27.5877173981063,224380.0
+2017,Total Energy Supply,Coal and coal products,450065.0, TJ,IEA,69.80252931500233,307619.3333333333
+2018,Total Energy Supply,Coal and coal products,533204.0, TJ,IEA,18.472665059491405,416107.0
+2019,Total Energy Supply,Coal and coal products,587617.0, TJ,IEA,10.204912191206368,523628.6666666667
+2020,Total Energy Supply,Coal and coal products,660481.0, TJ,IEA,12.399913549131492,593767.3333333334
+2021,Total Energy Supply,Coal and coal products,646551.0, TJ,IEA,-2.1090689966857488,631549.6666666666
+2022,Total Energy Supply,Coal and coal products,453249.0, TJ,IEA,-29.897409485098624,586760.3333333334
+2023,Total Energy Supply,Coal and coal products,443203.0, TJ,IEA,-2.216441735116901,514334.3333333333
+2000,Total Energy Supply,Hydropower,61898.0, TJ,IEA,,61898.0
+2001,Total Energy Supply,Hydropower,68187.0, TJ,IEA,10.160263659568969,65042.5
+2002,Total Energy Supply,Hydropower,80463.0, TJ,IEA,18.00343173918782,70182.66666666667
+2003,Total Energy Supply,Hydropower,96998.0, TJ,IEA,20.549817928737433,81882.66666666667
+2004,Total Energy Supply,Hydropower,92415.0, TJ,IEA,-4.724839687416235,89958.66666666667
+2005,Total Energy Supply,Hydropower,111103.0, TJ,IEA,20.221825461234648,100172.0
+2006,Total Energy Supply,Hydropower,115030.0, TJ,IEA,3.53455802273566,106182.66666666667
+2007,Total Energy Supply,Hydropower,103345.0, TJ,IEA,-10.15821959488829,109826.0
+2008,Total Energy Supply,Hydropower,100022.0, TJ,IEA,-3.215443417678649,106132.33333333333
+2009,Total Energy Supply,Hydropower,101134.0, TJ,IEA,1.111755413808962,101500.33333333333
+2010,Total Energy Supply,Hydropower,114519.0, TJ,IEA,13.234916051970652,105225.0
+2011,Total Energy Supply,Hydropower,102661.0, TJ,IEA,-10.354613644897354,106104.66666666667
+2012,Total Energy Supply,Hydropower,107485.0, TJ,IEA,4.698960656919375,108221.66666666667
+2013,Total Energy Supply,Hydropower,114742.0, TJ,IEA,6.751639763687957,108296.0
+2014,Total Energy Supply,Hydropower,116906.0, TJ,IEA,1.8859702637220896,113044.33333333333
+2015,Total Energy Supply,Hydropower,124678.0, TJ,IEA,6.648076232186543,118775.33333333333
+2016,Total Energy Supply,Hydropower,115858.0, TJ,IEA,-7.074223198960522,119147.33333333333
+2017,Total Energy Supply,Hydropower,100530.0, TJ,IEA,-13.229988434117626,113688.66666666667
+2018,Total Energy Supply,Hydropower,98420.0, TJ,IEA,-2.098875957425644,104936.0
+2019,Total Energy Supply,Hydropower,120906.0, TJ,IEA,22.84698232066653,106618.66666666667
+2020,Total Energy Supply,Hydropower,120772.0, TJ,IEA,-0.11082990091476022,113366.0
+2021,Total Energy Supply,Hydropower,117741.0, TJ,IEA,-2.5096876759513798,119806.33333333333
+2022,Total Energy Supply,Hydropower,131914.0, TJ,IEA,12.03743810567262,123475.66666666667
+2023,Total Energy Supply,Hydropower,145633.0, TJ,IEA,10.39995754809952,131762.66666666666
+2000,Total Energy Supply,Natural gas,697845.0, TJ,IEA,,697845.0
+2001,Total Energy Supply,Natural gas,729246.0, TJ,IEA,4.4997098209487785,713545.5
+2002,Total Energy Supply,Natural gas,746793.0, TJ,IEA,2.4061839214750576,724628.0
+2003,Total Energy Supply,Natural gas,927257.0, TJ,IEA,24.165197049249258,801098.6666666666
+2004,Total Energy Supply,Natural gas,1015597.0, TJ,IEA,9.527024330902867,896549.0
+2005,Total Energy Supply,Natural gas,1073592.0, TJ,IEA,5.7104343553594585,1005482.0
+2006,Total Energy Supply,Natural gas,1076309.0, TJ,IEA,0.2530756563014627,1055166.0
+2007,Total Energy Supply,Natural gas,1137000.0, TJ,IEA,5.638808186124988,1095633.6666666667
+2008,Total Energy Supply,Natural gas,1107634.0, TJ,IEA,-2.5827616534740545,1106981.0
+2009,Total Energy Supply,Natural gas,1142892.0, TJ,IEA,3.1831814480234444,1129175.3333333333
+2010,Total Energy Supply,Natural gas,1130514.0, TJ,IEA,-1.0830419672199998,1127013.3333333333
+2011,Total Energy Supply,Natural gas,1127902.0, TJ,IEA,-0.23104534751449338,1133769.3333333333
+2012,Total Energy Supply,Natural gas,1135781.0, TJ,IEA,0.6985535977416478,1131399.0
+2013,Total Energy Supply,Natural gas,1111133.0, TJ,IEA,-2.1701366724747113,1124938.6666666667
+2014,Total Energy Supply,Natural gas,1119015.0, TJ,IEA,0.709366025489298,1121976.3333333333
+2015,Total Energy Supply,Natural gas,1111894.0, TJ,IEA,-0.6363632301622408,1114014.0
+2016,Total Energy Supply,Natural gas,1117762.0, TJ,IEA,0.5277481486544581,1116223.6666666667
+2017,Total Energy Supply,Natural gas,1090060.0, TJ,IEA,-2.4783451217701082,1106572.0
+2018,Total Energy Supply,Natural gas,1327376.0, TJ,IEA,21.770911692934334,1178399.3333333333
+2019,Total Energy Supply,Natural gas,1244561.0, TJ,IEA,-6.239000855823821,1220665.6666666667
+2020,Total Energy Supply,Natural gas,1337470.0, TJ,IEA,7.465202589507465,1303135.6666666667
+2021,Total Energy Supply,Natural gas,1202036.0, TJ,IEA,-10.126133670287931,1261355.6666666667
+2022,Total Energy Supply,Natural gas,1214681.0, TJ,IEA,1.0519651657687457,1251395.6666666667
+2023,Total Energy Supply,Natural gas,1214487.0, TJ,IEA,-0.01597127146962865,1210401.3333333333
+2000,Total Energy Supply,Nuclear,21785.0, TJ,IEA,,21785.0
+2001,Total Energy Supply,Nuclear,24992.0, TJ,IEA,14.721138397980264,23388.5
+2002,Total Energy Supply,Nuclear,18981.0, TJ,IEA,-24.051696542893726,21919.333333333332
+2003,Total Energy Supply,Nuclear,19199.0, TJ,IEA,1.1485169379906224,21057.333333333332
+2004,Total Energy Supply,Nuclear,30490.0, TJ,IEA,58.81035470597426,22890.0
+2005,Total Energy Supply,Nuclear,27098.0, TJ,IEA,-11.124959002951787,25595.666666666668
+2006,Total Energy Supply,Nuclear,24960.0, TJ,IEA,-7.889881172042217,27516.0
+2007,Total Energy Supply,Nuclear,33567.0, TJ,IEA,34.48317307692308,28541.666666666668
+2008,Total Energy Supply,Nuclear,17650.0, TJ,IEA,-47.41859564453183,25392.333333333332
+2009,Total Energy Supply,Nuclear,31570.0, TJ,IEA,78.86685552407931,27595.666666666668
+2010,Total Energy Supply,Nuclear,37309.0, TJ,IEA,18.178650617675007,28843.0
+2011,Total Energy Supply,Nuclear,57436.0, TJ,IEA,53.94676887614248,42105.0
+2012,Total Energy Supply,Nuclear,49669.0, TJ,IEA,-13.522877637718503,48138.0
+2013,Total Energy Supply,Nuclear,55527.0, TJ,IEA,11.794076788338803,54210.666666666664
+2014,Total Energy Supply,Nuclear,63316.0, TJ,IEA,14.027410088785636,56170.666666666664
+2015,Total Energy Supply,Nuclear,50236.0, TJ,IEA,-20.65828542548487,56359.666666666664
+2016,Total Energy Supply,Nuclear,76352.0, TJ,IEA,51.986623138784935,63301.333333333336
+2017,Total Energy Supply,Nuclear,107781.0, TJ,IEA,41.16329631181894,78123.0
+2018,Total Energy Supply,Nuclear,108098.0, TJ,IEA,0.2941149182137853,97410.33333333333
+2019,Total Energy Supply,Nuclear,117981.0, TJ,IEA,9.142629835889656,111286.66666666667
+2020,Total Energy Supply,Nuclear,101956.0, TJ,IEA,-13.582695518769972,109345.0
+2021,Total Energy Supply,Nuclear,209170.0, TJ,IEA,105.15712660363295,143035.66666666666
+2022,Total Energy Supply,Nuclear,283189.0, TJ,IEA,35.38700578476837,198105.0
+2023,Total Energy Supply,Nuclear,285483.0, TJ,IEA,0.8100597127713294,259280.66666666666
+2000,Total Energy Supply,Oil and oil products,795965.0, TJ,IEA,,795965.0
+2001,Total Energy Supply,Oil and oil products,767450.0, TJ,IEA,-3.5824439516812925,781707.5
+2002,Total Energy Supply,Oil and oil products,746493.0, TJ,IEA,-2.7307316437552935,769969.3333333334
+2003,Total Energy Supply,Oil and oil products,616826.0, TJ,IEA,-17.37015618364807,710256.3333333334
+2004,Total Energy Supply,Oil and oil products,672766.0, TJ,IEA,9.069008115740907,678695.0
+2005,Total Energy Supply,Oil and oil products,689913.0, TJ,IEA,2.5487316540966694,659835.0
+2006,Total Energy Supply,Oil and oil products,774434.0, TJ,IEA,12.250964976743445,712371.0
+2007,Total Energy Supply,Oil and oil products,826944.0, TJ,IEA,6.780435776321804,763763.6666666666
+2008,Total Energy Supply,Oil and oil products,833972.0, TJ,IEA,0.8498761705750328,811783.3333333334
+2009,Total Energy Supply,Oil and oil products,815471.0, TJ,IEA,-2.2184198030629325,825462.3333333334
+2010,Total Energy Supply,Oil and oil products,846231.0, TJ,IEA,3.7720532060612824,831891.3333333334
+2011,Total Energy Supply,Oil and oil products,844829.0, TJ,IEA,-0.16567580247001115,835510.3333333334
+2012,Total Energy Supply,Oil and oil products,871735.0, TJ,IEA,3.1847865070919674,854265.0
+2013,Total Energy Supply,Oil and oil products,950433.0, TJ,IEA,9.027743522974298,888999.0
+2014,Total Energy Supply,Oil and oil products,1017233.0, TJ,IEA,7.02837548780398,946467.0
+2015,Total Energy Supply,Oil and oil products,1094800.0, TJ,IEA,7.625293320212773,1020822.0
+2016,Total Energy Supply,Oil and oil products,1177691.0, TJ,IEA,7.571337230544392,1096574.6666666667
+2017,Total Energy Supply,Oil and oil products,1166390.0, TJ,IEA,-0.9595895697598098,1146293.6666666667
+2018,Total Energy Supply,Oil and oil products,910814.0, TJ,IEA,-21.91171049134509,1084965.0
+2019,Total Energy Supply,Oil and oil products,803163.0, TJ,IEA,-11.819207873396763,960122.3333333334
+2020,Total Energy Supply,Oil and oil products,964156.0, TJ,IEA,20.04487258501699,892711.0
+2021,Total Energy Supply,Oil and oil products,1204724.0, TJ,IEA,24.95114898418928,990681.0
+2022,Total Energy Supply,Oil and oil products,880377.0, TJ,IEA,-26.922930065309565,1016419.0
+2023,Total Energy Supply,Oil and oil products,879434.0, TJ,IEA,-0.10711320263932383,988178.3333333334
+2000,Total Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2001,Total Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2002,Total Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2003,Total Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2004,Total Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2005,Total Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2006,Total Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2007,Total Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2008,Total Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2009,Total Energy Supply,"Solar, wind and other renewables",, TJ,IEA,,
+2010,Total Energy Supply,"Solar, wind and other renewables",0.0, TJ,IEA,,0.0
+2011,Total Energy Supply,"Solar, wind and other renewables",0.0, TJ,IEA,,0.0
+2012,Total Energy Supply,"Solar, wind and other renewables",0.0, TJ,IEA,,0.0
+2013,Total Energy Supply,"Solar, wind and other renewables",1430.0, TJ,IEA,,476.6666666666667
+2014,Total Energy Supply,"Solar, wind and other renewables",2888.0, TJ,IEA,101.95804195804197,1439.3333333333333
+2015,Total Energy Supply,"Solar, wind and other renewables",3577.0, TJ,IEA,23.857340720221607,2631.6666666666665
+2016,Total Energy Supply,"Solar, wind and other renewables",7044.0, TJ,IEA,96.92479731618675,4503.0
+2017,Total Energy Supply,"Solar, wind and other renewables",10399.0, TJ,IEA,47.629187961385576,7006.666666666667
+2018,Total Energy Supply,"Solar, wind and other renewables",13721.0, TJ,IEA,31.945379363400328,10388.0
+2019,Total Energy Supply,"Solar, wind and other renewables",13002.0, TJ,IEA,-5.240142846731287,12374.0
+2020,Total Energy Supply,"Solar, wind and other renewables",13100.0, TJ,IEA,0.7537301953545609,13274.333333333334
+2021,Total Energy Supply,"Solar, wind and other renewables",19424.0, TJ,IEA,48.274809160305345,15175.333333333334
+2022,Total Energy Supply,"Solar, wind and other renewables",18077.0, TJ,IEA,-6.934719934102142,16867.0
+2023,Total Energy Supply,"Solar, wind and other renewables",18589.0, TJ,IEA,2.832328373070753,18696.666666666668
+2000,Total Energy Supply Imported,Exports,-34305.0,TJ,IEA,,-34305.0
+2001,Total Energy Supply Imported,Exports,-35946.0,TJ,IEA,4.783559247923043,-35125.5
+2002,Total Energy Supply Imported,Exports,-38546.0,TJ,IEA,7.233071829967173,-36265.666666666664
+2003,Total Energy Supply Imported,Exports,-44158.0,TJ,IEA,14.559227935453745,-39550.0
+2004,Total Energy Supply Imported,Exports,-46643.0,TJ,IEA,5.627519362289958,-43115.666666666664
+2005,Total Energy Supply Imported,Exports,-56162.0,TJ,IEA,20.40820701927406,-48987.666666666664
+2006,Total Energy Supply Imported,Exports,-59918.0,TJ,IEA,6.687796018660304,-54241.0
+2007,Total Energy Supply Imported,Exports,-59422.0,TJ,IEA,-0.8277979905871359,-58500.666666666664
+2008,Total Energy Supply Imported,Exports,-53647.0,TJ,IEA,-9.718622732321363,-57662.333333333336
+2009,Total Energy Supply Imported,Exports,-63850.0,TJ,IEA,19.01877085391541,-58973.0
+2010,Total Energy Supply Imported,Exports,-69433.0,TJ,IEA,8.743931088488646,-62310.0
+2011,Total Energy Supply Imported,Exports,-38894.0,TJ,IEA,-43.98340846571515,-57392.333333333336
+2012,Total Energy Supply Imported,Exports,-31744.0,TJ,IEA,-18.38329819509436,-46690.333333333336
+2013,Total Energy Supply Imported,Exports,-43884.0,TJ,IEA,38.24344758064516,-38174.0
+2014,Total Energy Supply Imported,Exports,-71868.0,TJ,IEA,63.76811594202898,-49165.333333333336
+2015,Total Energy Supply Imported,Exports,-53139.0,TJ,IEA,-26.060277174820506,-56297.0
+2016,Total Energy Supply Imported,Exports,-42483.0,TJ,IEA,-20.05306836786541,-55830.0
+2017,Total Energy Supply Imported,Exports,-52625.0,TJ,IEA,23.873078643221994,-49415.666666666664
+2018,Total Energy Supply Imported,Exports,-48524.0,TJ,IEA,-7.792874109263657,-47877.333333333336
+2019,Total Energy Supply Imported,Exports,-31119.0,TJ,IEA,-35.86884840491303,-44089.333333333336
+2020,Total Energy Supply Imported,Exports,-24265.0,TJ,IEA,-22.02512934220251,-34636.0
+2021,Total Energy Supply Imported,Exports,-30224.0,TJ,IEA,24.55800535751082,-28536.0
+2022,Total Energy Supply Imported,Exports,-30326.0,TJ,IEA,0.3374801482265749,-28271.666666666668
+2023,Total Energy Supply Imported,Exports,-30326.0,TJ,IEA,-0.0,-30292.0
+2000,Total Energy Supply Imported,Imports,756842.0,TJ,IEA,,756842.0
+2001,Total Energy Supply Imported,Imports,720271.0,TJ,IEA,-4.83205213241337,738556.5
+2002,Total Energy Supply Imported,Imports,712435.0,TJ,IEA,-1.0879238508839035,729849.3333333334
+2003,Total Energy Supply Imported,Imports,644815.0,TJ,IEA,-9.4913921971829,692507.0
+2004,Total Energy Supply Imported,Imports,698393.0,TJ,IEA,8.309049882524446,685214.3333333334
+2005,Total Energy Supply Imported,Imports,712429.0,TJ,IEA,2.009756684273754,685212.3333333334
+2006,Total Energy Supply Imported,Imports,831460.0,TJ,IEA,16.707770177800175,747427.3333333334
+2007,Total Energy Supply Imported,Imports,917074.0,TJ,IEA,10.296827267697784,820321.0
+2008,Total Energy Supply Imported,Imports,905327.0,TJ,IEA,-1.280921714060152,884620.3333333334
+2009,Total Energy Supply Imported,Imports,906434.0,TJ,IEA,0.12227626040093802,909611.6666666666
+2010,Total Energy Supply Imported,Imports,934806.0,TJ,IEA,3.1300679365513653,915522.3333333334
+2011,Total Energy Supply Imported,Imports,869651.0,TJ,IEA,-6.969895357967322,903630.3333333334
+2012,Total Energy Supply Imported,Imports,873956.0,TJ,IEA,0.4950261656687568,892804.3333333334
+2013,Total Energy Supply Imported,Imports,928372.0,TJ,IEA,6.226400413750807,890659.6666666666
+2014,Total Energy Supply Imported,Imports,1096211.0,TJ,IEA,18.07885201190902,966179.6666666666
+2015,Total Energy Supply Imported,Imports,1206551.0,TJ,IEA,10.065580440261957,1077044.6666666667
+2016,Total Energy Supply Imported,Imports,1417273.0,TJ,IEA,17.464823285546984,1240011.6666666667
+2017,Total Energy Supply Imported,Imports,1721445.0,TJ,IEA,21.46177906444277,1448423.0
+2018,Total Energy Supply Imported,Imports,1579278.0,TJ,IEA,-8.258585084042766,1572665.3333333333
+2019,Total Energy Supply Imported,Imports,1428683.0,TJ,IEA,-9.535686560567552,1576468.6666666667
+2020,Total Energy Supply Imported,Imports,1765260.0,TJ,IEA,23.55855007723897,1591073.6666666667
+2021,Total Energy Supply Imported,Imports,1969157.0,TJ,IEA,11.55053646488336,1721033.3333333333
+2022,Total Energy Supply Imported,Imports,1402261.0,TJ,IEA,-28.78876595416211,1712226.0
+2023,Total Energy Supply Imported,Imports,1392896.0,TJ,IEA,-0.6678499936887641,1588104.6666666667
